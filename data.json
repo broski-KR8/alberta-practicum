@@ -102,6 +102,18 @@
     "placeId": "ChIJScGmfcshoFMRe28RKytWg4w"
   },
   {
+    "name": "Aberdeen Centre",
+    "address": "9728 101 Ave, Grande Prairie, AB T8V 5B6, Canada",
+    "phone": "(780) 833-4323",
+    "email": "feedback@myhealth.alberta.ca",
+    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx?id=1026203&serviceAtFacilityID=1047873",
+    "modalities": [
+      "Addiction"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJDRJW00SRkFMR6bV6BK2qQ4Q"
+  },
+  {
     "name": "Able Therapy",
     "address": "378 1 St SE, Medicine Hat, AB T1A 0A6, Canada",
     "phone": "(403) 977-5642",
@@ -123,6 +135,16 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJ7Unu3LT2C2cR2GxM2u9kzrA"
+  },
+  {
+    "name": "Aboriginal Counseling Services of Alberta",
+    "address": "10010 105 St NW Rm 204, Edmonton, AB T5J 1C4, Canada",
+    "phone": "(780) 242-4357",
+    "email": "",
+    "website": "http://www.aboriginalcounseling.com/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJ14_QZDgioFMRqQWStJ8iLwc"
   },
   {
     "name": "Abraham Counselling Therapy",
@@ -175,16 +197,6 @@
     "placeId": "ChIJ-78pRYQFsFMRiRud3ztqxFg"
   },
   {
-    "name": "Acceleration Physiotherapy",
-    "address": "2257 Premier Way #188, Sherwood Park, AB T8H 2M8, Canada",
-    "phone": "(587) 338-4900",
-    "email": "info@accelerationphysio.com",
-    "website": "http://www.accelerationphysio.com/",
-    "modalities": [],
-    "acceptingStudents": false,
-    "placeId": "ChIJ4QGiYjY9oFMRhcvv_UR080E"
-  },
-  {
     "name": "Access Chiropractic and Wellness",
     "address": "52 Gateway Dr NE, Airdrie, AB T4B 0J6, Canada",
     "phone": "(403) 945-0855",
@@ -203,6 +215,16 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJ1Y94u9oIsFMRw7n_yCjCbp0"
+  },
+  {
+    "name": "Access Physiotherapy Inc",
+    "address": "10027 101 Ave #101, Grande Prairie, AB T8V 0X9, Canada",
+    "phone": "(780) 831-0123",
+    "email": "",
+    "website": "https://accessphysiotherapy.ca/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJX5tqAEyRkFMRUIVH8hWBTXo"
   },
   {
     "name": "Achieve Health and Wellness",
@@ -277,6 +299,16 @@
     "placeId": "ChIJ-f4b3aQloFMRdAmclJStZmc"
   },
   {
+    "name": "Active Physio Works - Sturgeon Medical",
+    "address": "625 St Albert Trl #200, St. Albert, AB T8N 3L3, Canada",
+    "phone": "(780) 809-8700",
+    "email": "",
+    "website": "http://activephysioworks.com/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJlyDHayUloFMR73VNQ2ALvQg"
+  },
+  {
     "name": "Active Recovery Therapy Massage Clinic",
     "address": "646 Black Stone Blvd, Leduc, AB T9E 1G8, Canada",
     "phone": "(780) 982-5918",
@@ -337,6 +369,16 @@
     "placeId": "ChIJ-0BfHu8sE1MRaVx43mIkJU8"
   },
   {
+    "name": "Addiction and Mental Health Clinic",
+    "address": "203 3 Ave, Strathmore, AB T1P 1N7, Canada",
+    "phone": "(403) 361-7277",
+    "email": "",
+    "website": "https://www.albertahealthservices.ca/findhealth/facility.aspx?id=1004516",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJ0S3i6OPMc1MRaiUYdkxsy70"
+  },
+  {
     "name": "Addiction Mental Health Community",
     "address": "346 3rd St SE, Medicine Hat, AB T1A 0G7, Canada",
     "phone": "(403) 529-3500",
@@ -355,16 +397,6 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJFRLmtCVUdFMR6_X6cGwvLus"
-  },
-  {
-    "name": "Advance Occupational Therapy Service",
-    "address": "552 2 St SE, Medicine Hat, AB T1A 0C5, Canada",
-    "phone": "(403) 528-2037",
-    "email": "Contact@AdvanceOT.ca",
-    "website": "https://www.advanceot.ca/",
-    "modalities": [],
-    "acceptingStudents": false,
-    "placeId": "ChIJb58he1AtE1MRBRJHlsRHiEs"
   },
   {
     "name": "Advanced Counceling & Consulting Practice",
@@ -423,6 +455,16 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJXfTtYW5fcVMRB0-qJBMNUxM"
+  },
+  {
+    "name": "Adventure Physiotherapy - North",
+    "address": "10126 117 Ave #107, Grande Prairie, AB T8V 7S4, Canada",
+    "phone": "(780) 532-0548",
+    "email": "user@domain.com",
+    "website": "http://adventurephysiotherapy.com/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJhZMd76qWkFMR5koznvdcoOA"
   },
   {
     "name": "ADZ Psychology & Wellness Clinic",
@@ -557,32 +599,11 @@
     "name": "Airdrie Counselling Centre",
     "address": "620 1 Ave NW Unit 5, Airdrie, AB T4B 2R3, Canada",
     "phone": "(403) 948-3968",
-    "email": "admin@airdriecounsellingcentre.com",
+    "email": "",
     "website": "https://www.airdriecounsellingcentre.com/",
-    "modalities": [
-      "CBT",
-      "EMDR",
-      "Trauma",
-      "Anxiety",
-      "Depression",
-      "Couples",
-      "Play Therapy",
-      "Grief",
-      "ADHD",
-      "Assessment"
-    ],
-    "acceptingStudents": false,
-    "placeId": "ChIJKbaTCBlfcVMRWHmPRF_Y3HE"
-  },
-  {
-    "name": "Airdrie Family Eye Doctors | Optometrist in Airdrie",
-    "address": "705 Main St S #150, Airdrie, AB T4B 3M2, Canada",
-    "phone": "(403) 912-2020",
-    "email": "reception@airdrieeyes.com",
-    "website": "http://airdriefamilyeyedoctors.com/",
     "modalities": [],
     "acceptingStudents": false,
-    "placeId": "ChIJ1QUM8XFfcVMRCtleAEcuU8I"
+    "placeId": "ChIJKbaTCBlfcVMRWHmPRF_Y3HE"
   },
   {
     "name": "Airdrie Family Services Society",
@@ -628,7 +649,7 @@
     "name": "Airdrie Performance Massage",
     "address": "400 Main St N Unit 111, Airdrie, AB T4B 2N1, Canada",
     "phone": "(403) 467-6743",
-    "email": "",
+    "email": "info@airdrieperformancemassage.com",
     "website": "https://www.airdrieperformancemassage.com/",
     "modalities": [],
     "acceptingStudents": false,
@@ -790,6 +811,16 @@
     "placeId": "ChIJETmr1YqOn1MR0YX-sguvl8U"
   },
   {
+    "name": "Alberta Physical Therapy Clinics Inc.",
+    "address": "1235 Southview Dr SE, Medicine Hat, AB T1B 2A4, Canada",
+    "phone": "(403) 527-9477",
+    "email": "info@aptcinc.ca",
+    "website": "http://www.aptcinc.ca/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJg1qhywotE1MRPKlsHQXEGpY"
+  },
+  {
     "name": "Alberta Psychsystems",
     "address": "100 Signal Rd, Fort McMurray, AB T9H 5A3, Canada",
     "phone": "(780) 791-7595",
@@ -836,6 +867,21 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJTY2a2zAloFMRRlpLIJNCITU"
+  },
+  {
+    "name": "Alberta Therapy Co. - Old Strathcona",
+    "address": "7607 104 Street NW, Edmonton, AB T6E 4C3, Canada",
+    "phone": "(780) 441-1220",
+    "email": "user@domain.com",
+    "website": "http://www.albertatherapyco.ca/",
+    "modalities": [
+      "Trauma",
+      "Anxiety",
+      "ADHD",
+      "Assessment"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJaZtGUJojoFMReliBWcRJQns"
   },
   {
     "name": "AlbertaHealthServices",
@@ -889,19 +935,9 @@
     "name": "Aligned Minds Counseling and Therapy",
     "address": "9406 91 St, Edmonton, AB T6C 3P4, Canada",
     "phone": "(587) 606-4099",
-    "email": "info@aligned-minds.com",
+    "email": "",
     "website": "http://www.aligned-minds.com/",
-    "modalities": [
-      "CBT",
-      "DBT",
-      "EMDR",
-      "Mindfulness",
-      "Trauma",
-      "Anxiety",
-      "Depression",
-      "Grief",
-      "ADHD"
-    ],
+    "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJuXymYg8joFMRliP3mWypov8"
   },
@@ -1113,6 +1149,28 @@
     "placeId": "ChIJB10SWuJvcVMRX1bz96MR2w8"
   },
   {
+    "name": "Anju astrology & psychic medium",
+    "address": "1080 Strathcona Dr, Sherwood Park, AB T8A 0Z7, Canada",
+    "phone": "(587) 598-3903",
+    "email": "",
+    "website": "https://psychicarjunindianastrologer.com/",
+    "modalities": [
+      "Couples"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJAylOutsXoFMRHADt67trE-I"
+  },
+  {
+    "name": "Anna massage therapist",
+    "address": "10101 101 Ave, Grande Prairie, AB T8V 0V4, Canada",
+    "phone": "(503) 732-8947",
+    "email": "",
+    "website": "",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJmzsLWoSRkFMRQpN0UpS4SRw"
+  },
+  {
     "name": "Annie’s Therapeutic Massage",
     "address": "139 Selkirk Pl, Leduc, AB T9E 0L6, Canada",
     "phone": "",
@@ -1140,7 +1198,7 @@
     "name": "APPLE WELLNESS CENTER",
     "address": "229 1 St SW Unit 1, Airdrie, AB T4B 3L8, Canada",
     "phone": "(587) 332-6767",
-    "email": "applewellnessmedical@gmail.com",
+    "email": "",
     "website": "http://applewellnesscenter.com/",
     "modalities": [],
     "acceptingStudents": false,
@@ -1290,6 +1348,16 @@
     "placeId": "ChIJ4_SmSkdfcVMRHiSDapEiAWI"
   },
   {
+    "name": "ASL Intervention-Counseling",
+    "address": "6315 Horn St, Red Deer, AB T4N 6H5, Canada",
+    "phone": "(403) 342-4357",
+    "email": "",
+    "website": "",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJD--s90NUdFMRko8_iQ7ifWg"
+  },
+  {
     "name": "Aspen Grove Counselling",
     "address": "105 1 St W, Cochrane, AB T4C 2E9, Canada",
     "phone": "(587) 888-4326",
@@ -1325,16 +1393,6 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJm08QsMVBcVMRYeQN9AzS-eg"
-  },
-  {
-    "name": "Aspen Psychology Group",
-    "address": "1209 59 Ave SE Ste 120, Calgary, AB T2H 2L7, Canada",
-    "phone": "(587) 326-1875",
-    "email": "info@aspenpsychologygroup.com",
-    "website": "https://www.aspenpsychologygroup.com/",
-    "modalities": [],
-    "acceptingStudents": false,
-    "placeId": "ChIJXYNyfTdxcVMRyS3KDAZcNSA"
   },
   {
     "name": "Aspen Therapy & Wellness Counselling",
@@ -1383,6 +1441,16 @@
     "placeId": "ChIJy-VKOUlfcVMR2mCuqd-EGcw"
   },
   {
+    "name": "Aspire Chiropractic & Massage",
+    "address": "401 Coopers Boulevard Southwest #1106, Airdrie, AB T4B 4J3, Canada",
+    "phone": "(403) 980-4800",
+    "email": "",
+    "website": "https://www.aspireairdrie.ca/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJawFRcShfcVMRLnllYS6OfYc"
+  },
+  {
     "name": "Aspire Counselling and Psychology",
     "address": "131 1 Ave E #301, Spruce Grove, AB T7X 2Z8, Canada",
     "phone": "(780) 719-5121",
@@ -1418,6 +1486,16 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJHSMNYbeHblMR1kDrFFSPcM4"
+  },
+  {
+    "name": "Assure Occupational Testing",
+    "address": "4816 49 Ave, Lloydminster, SK S9V 0T4, Canada",
+    "phone": "(844) 825-5030",
+    "email": "",
+    "website": "http://assuretesting.com/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJ512LHZeyCVMRdMdSKEaWMu4"
   },
   {
     "name": "Assured Psychology",
@@ -1492,16 +1570,6 @@
     "placeId": "ChIJbYqroc1xcVMRr_wlGiDv484"
   },
   {
-    "name": "Attainment Counselling",
-    "address": "24 Inglewood Dr Ste 203, St. Albert, AB T8N 6K4, Canada",
-    "phone": "",
-    "email": "",
-    "website": "http://attainmentcounselling.com/",
-    "modalities": [],
-    "acceptingStudents": false,
-    "placeId": "ChIJqxYLkWwloFMRfjT_TdIkQyk"
-  },
-  {
     "name": "Attuned Psychological Services",
     "address": "4836 50 St Unit 205, Red Deer, AB T4N 1T9, Canada",
     "phone": "(825) 250-3864",
@@ -1530,6 +1598,21 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJA-jt1rSh8qQRXsxIDHNxH5o"
+  },
+  {
+    "name": "Authentic Psychology",
+    "address": "1530 9 Ave SE, Calgary, AB T2G 0T7, Canada",
+    "phone": "(403) 690-7482",
+    "email": "",
+    "website": "http://authenticpsych.com/",
+    "modalities": [
+      "Anxiety",
+      "Couples",
+      "Addiction",
+      "Assessment"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJFVSvXlZwcVMRiSAffkzYdKI"
   },
   {
     "name": "Authentic You: Counselling, Assessment & Addictions Services Inc.",
@@ -1634,16 +1717,6 @@
     "placeId": "ChIJB5xoW8O7ClMRswf_RwXF0zk"
   },
   {
-    "name": "B Well Physiotherapy",
-    "address": "123 2 Ave W, Cochrane, AB T4C 2E7, Canada",
-    "phone": "(403) 981-6977",
-    "email": "therapy@bwellphysio.ca",
-    "website": "http://www.bwellphysio.ca/",
-    "modalities": [],
-    "acceptingStudents": false,
-    "placeId": "ChIJqc9zq51AcVMRolR2fLlQ1Xs"
-  },
-  {
     "name": "Back On Track Health Centre",
     "address": "101 1 Ave E #1, Spruce Grove, AB T7X 2H8, Canada",
     "phone": "(780) 962-2423",
@@ -1654,6 +1727,19 @@
     "placeId": "ChIJd1t_VfGOn1MRVHffqDqvXQc"
   },
   {
+    "name": "Badour Psychology",
+    "address": "1026 Bellevue Ave SE, Calgary, AB T2G 4L7, Canada",
+    "phone": "(403) 402-6853",
+    "email": "melanie@badourpsychology.com",
+    "website": "https://www.badourpsychology.com/",
+    "modalities": [
+      "Trauma",
+      "Anxiety"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJB5aD-sp7cVMRi2ZkUAr9cak"
+  },
+  {
     "name": "Balance Physiotherapy & Massage",
     "address": "116 Southbank Blvd #103, Okotoks, AB T1S 0K4, Canada",
     "phone": "(403) 917-1093",
@@ -1662,26 +1748,6 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJG9dc37iXcVMRBBX9-RDEYOg"
-  },
-  {
-    "name": "Balance Psychological Services - Stony Plain",
-    "address": "Station 33 Building, 4310 33 St Unit 106, Stony Plain, AB T7Z 0A8, Canada",
-    "phone": "(587) 985-3132",
-    "email": "info@balancepsychservices.ca",
-    "website": "https://www.balancepsychservices.ca/",
-    "modalities": [
-      "EMDR",
-      "Trauma",
-      "Anxiety",
-      "Depression",
-      "Couples",
-      "Play Therapy",
-      "Child",
-      "Grief",
-      "ADHD"
-    ],
-    "acceptingStudents": false,
-    "placeId": "ChIJtzCG33CPn1MRbgKN-QgtYLo"
   },
   {
     "name": "Balance Wellness",
@@ -1719,6 +1785,16 @@
     "placeId": "ChIJGSQ9DGeZcVMRrAS4-YvALos"
   },
   {
+    "name": "Bask Wellness UV Spray tan",
+    "address": "5703 48 Ave, Camrose, AB T4V 0J9, Canada",
+    "phone": "(587) 386-2275",
+    "email": "",
+    "website": "https://baskwellness.net/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJ9Y2gIuS7ClMR9hhJcZ3G7_Y"
+  },
+  {
     "name": "Baynes Family Wellness",
     "address": "5708 47 St #101, Leduc, AB T9E 6Z9, Canada",
     "phone": "(780) 986-1837",
@@ -1729,22 +1805,6 @@
     "placeId": "ChIJD5yBJ3X5n1MReKYNXAwCndg"
   },
   {
-    "name": "BE by Design",
-    "address": "101 Sunset Dr Ste 3213, Cochrane, AB T4C 0C6, Canada",
-    "phone": "(587) 585-8186",
-    "email": "drmackcounselling@protonmail.com",
-    "website": "https://bebydesign.ca/",
-    "modalities": [
-      "EMDR",
-      "Trauma",
-      "Anxiety",
-      "Depression",
-      "Couples"
-    ],
-    "acceptingStudents": false,
-    "placeId": "ChIJz5uOYIQep4MRAnK3mbCKHN8"
-  },
-  {
     "name": "Be Mind Body Therapy",
     "address": "1239 2 Ave S #300, Lethbridge, AB T1H-0E5, Canada",
     "phone": "(403) 382-5061",
@@ -1753,16 +1813,6 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJVVUFDraHblMRxxfXF7eY8bo"
-  },
-  {
-    "name": "Be Mind Body Therapy",
-    "address": "2106 10 Ave S, Lethbridge, AB T1K 0C1, Canada",
-    "phone": "(403) 382-5061",
-    "email": "",
-    "website": "http://bemindbodytherapy.com/",
-    "modalities": [],
-    "acceptingStudents": false,
-    "placeId": "ChIJAQAkO0aGblMRb9SmaJDuFpI"
   },
   {
     "name": "Be Well Psychology",
@@ -1985,13 +2035,27 @@
     "email": "info@bestrelationships.ca",
     "website": "http://www.bestrelationships.ca/",
     "modalities": [
-      "CBT",
-      "DBT",
       "EMDR",
       "Couples"
     ],
     "acceptingStudents": false,
     "placeId": "ChIJxfN1a4c9oFMR2BacTsLgw2w"
+  },
+  {
+    "name": "Beth Wocks",
+    "address": "226 Laura Ave office 148, Red Deer, AB T4S 1Y2, Canada",
+    "phone": "(403) 588-4222",
+    "email": "user@domain.com",
+    "website": "http://ethoscounselling.ca/",
+    "modalities": [
+      "Trauma",
+      "Anxiety",
+      "Depression",
+      "Grief",
+      "ADHD"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJTWTpzNBQdFMR_L1MLtfM61s"
   },
   {
     "name": "Bethany Mills Psychological Services",
@@ -2021,6 +2085,16 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJw073dcOzCVMREit-RyA1hBQ"
+  },
+  {
+    "name": "Beyond Relief with Jaja RMT",
+    "address": "4935 50 St, Lloydminster, SK S9V 0N1, Canada",
+    "phone": "(587) 217-5893",
+    "email": "Beyondreliefwithjaja@gmail.com",
+    "website": "https://beyondreliefwithjaja.noterro.com/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJFTGcC72rqa0RjVae0j__Tzk"
   },
   {
     "name": "Beyond Therapy Counselling & Holistic Services",
@@ -2094,16 +2168,6 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJk-drCgE_oFMRz1FfR7DpU44"
-  },
-  {
-    "name": "Bipolar Wellness",
-    "address": "Roots Community Building, 8135 102 St NW, Edmonton, AB T6E 4A4, Canada",
-    "phone": "(780) 935-8354",
-    "email": "",
-    "website": "https://www.bipolarwellness.ca/",
-    "modalities": [],
-    "acceptingStudents": false,
-    "placeId": "ChIJaSUP5uAjoFMRWO4t36nVFU8"
   },
   {
     "name": "Birchwood Circle of Care",
@@ -2281,6 +2345,21 @@
     "placeId": "ChIJFRRVdnFfcVMR4tOi9VFSeAE"
   },
   {
+    "name": "Bloom Psychedelic Therapy & Research Institute Ltd",
+    "address": "628 12 Ave SW Ste 400, Calgary, AB T2R 0H6, Canada",
+    "phone": "(587) 442-4157",
+    "email": "user@domain.com",
+    "website": "http://www.bloompsychedelic.com/",
+    "modalities": [
+      "Mindfulness",
+      "Trauma",
+      "Anxiety",
+      "Depression"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJcR6ZarJvcVMRdlFbCm-ShPc"
+  },
+  {
     "name": "Bloom Psychological Services",
     "address": "86 McKenney Ave Ste 204, St. Albert, AB T8N 2T7, Canada",
     "phone": "(587) 487-4137",
@@ -2395,6 +2474,47 @@
     "placeId": "ChIJGVH868ctE1MRHvkfGLYS6z0"
   },
   {
+    "name": "Bonnie Wolski, MSW, RSW",
+    "address": "9488 51 Ave NW #201B, Edmonton, AB T6E 5A6, Canada",
+    "phone": "(587) 338-0304",
+    "email": "bonniewolski@mswtherapist.ca",
+    "website": "https://www.mswtherapist.ca/",
+    "modalities": [
+      "Trauma",
+      "Anxiety",
+      "Depression",
+      "Grief"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJr93JeJYZoFMR2LIceAgXfbM"
+  },
+  {
+    "name": "Boost Psychology - Counselling and Psychological Services",
+    "address": "2307 90b St SW, Edmonton, AB T6X 1V8, Canada",
+    "phone": "(780) 628-5446",
+    "email": "info@boostpsych.com",
+    "website": "https://www.boostpsych.com/?utm_source=GBP&utm_medium=organic",
+    "modalities": [
+      "Trauma",
+      "Anxiety",
+      "Depression",
+      "Couples",
+      "Assessment"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJ7ZBwxa8foFMRP8jqieFIX3c"
+  },
+  {
+    "name": "Border City Clinic",
+    "address": "2707 50 Ave, Lloydminster, SK S9V 2A8, Canada",
+    "phone": "(306) 825-4427",
+    "email": "",
+    "website": "http://bordercityclinic.com/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJz5arh3ytCVMRV1HVj0Xz9T0"
+  },
+  {
     "name": "Boreal Therapy Collective",
     "address": "8530 Manning Ave Unit 104, Fort McMurray, AB T9H 5G2, Canada",
     "phone": "(780) 838-5070",
@@ -2409,7 +2529,8 @@
       "Anxiety",
       "Depression",
       "Couples",
-      "Grief"
+      "Grief",
+      "Addiction"
     ],
     "acceptingStudents": false,
     "placeId": "ChIJX-DGfWkPsFMRHc80gfYwq8o"
@@ -2552,6 +2673,23 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJUwL8cuJvcVMR14PfostuY5o"
+  },
+  {
+    "name": "Brenda Rooney Counselling",
+    "address": "224 11 Ave SW #301, Calgary, AB T2R 0C3, Canada",
+    "phone": "(403) 669-8605",
+    "email": "brenda@brendarooney.com",
+    "website": "http://brendarooney.com/",
+    "modalities": [
+      "EMDR",
+      "ACT",
+      "Mindfulness",
+      "Trauma",
+      "Anxiety",
+      "Couples"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJSTuRR4FxcVMRDF2o8BXBtyQ"
   },
   {
     "name": "Brentwood Chiropractic Clinic",
@@ -2704,18 +2842,6 @@
     "placeId": "ChIJgxEu1qtfcVMRrAm7kDTnOM0"
   },
   {
-    "name": "C L Body Therapy",
-    "address": "4161 70 Ave, Lloydminster, AB T9V 3L9, Canada",
-    "phone": "(780) 875-5372",
-    "email": "muscletherapy@telus.net",
-    "website": "https://cltherapy.com/",
-    "modalities": [
-      "Trauma"
-    ],
-    "acceptingStudents": false,
-    "placeId": "ChIJVfygoG-yCVMRBFnIBLFERug"
-  },
-  {
     "name": "C2 Laser & Aesthetics",
     "address": "4912 46 St, Camrose, AB T4V 5A6, Canada",
     "phone": "(780) 608-0948",
@@ -2821,7 +2947,17 @@
     "phone": "(403) 615-1808",
     "email": "",
     "website": "https://calgaryfamilycounselling.ca/",
-    "modalities": [],
+    "modalities": [
+      "CBT",
+      "DBT",
+      "Trauma",
+      "Anxiety",
+      "Depression",
+      "Couples",
+      "Family",
+      "Child",
+      "Grief"
+    ],
     "acceptingStudents": false,
     "placeId": "ChIJ5ecAYPVBcVMROcqrfJacqQE"
   },
@@ -2844,6 +2980,26 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJv4YyTHBBcVMRTFGRa7QpMZ4"
+  },
+  {
+    "name": "Calgary Family Counselling",
+    "address": "600 Crowfoot Crescent NW, Calgary, AB T3G 0B4, Canada",
+    "phone": "(403) 615-1808",
+    "email": "",
+    "website": "https://calgaryfamilycounselling.ca/",
+    "modalities": [
+      "CBT",
+      "DBT",
+      "Trauma",
+      "Anxiety",
+      "Depression",
+      "Couples",
+      "Family",
+      "Child",
+      "Grief"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJHxuFfwJpcVMRBZyrrRxT5oE"
   },
   {
     "name": "Calgary Family Therapy",
@@ -2998,17 +3154,9 @@
     "name": "Calm at the Centre Therapy",
     "address": "815 1 St SW Ste 507A, Calgary, AB T2P 2G9, Canada",
     "phone": "(587) 600-1131",
-    "email": "awolskarsw@gmail.com",
+    "email": "",
     "website": "http://www.calmatthecentertherapy.com/",
-    "modalities": [
-      "Mindfulness",
-      "Trauma",
-      "Anxiety",
-      "Depression",
-      "Couples",
-      "Family",
-      "Grief"
-    ],
+    "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJCzuFeeRvcVMRxcjngu0U2t0"
   },
@@ -3080,16 +3228,16 @@
     "placeId": "ChIJyRrQvZCyCVMRrrBa6W8bfFA"
   },
   {
-    "name": "Camrose & District FCSS",
-    "address": "4821 51 St, Camrose, AB T4V 1R9, Canada",
-    "phone": "(780) 672-0141",
-    "email": "info@camrosefcss.ca",
-    "website": "https://www.camrosefcss.ca/",
+    "name": "Camrose - Alberta Supports Centre",
+    "address": "Gemini Centre, 6708 48 Ave 3rd Floor, Camrose, AB T4V 4S3, Canada",
+    "phone": "(780) 608-2525",
+    "email": "",
+    "website": "https://www.alberta.ca/alberta-supports",
     "modalities": [
       "Addiction"
     ],
     "acceptingStudents": false,
-    "placeId": "ChIJ61LU4tK7ClMRUVI3iWiBQ6w"
+    "placeId": "ChIJbeMU7eu7ClMRa_wJhuNDeMY"
   },
   {
     "name": "Camrose Addiction and Mental Health Clinic",
@@ -3107,13 +3255,43 @@
     "name": "Camrose Family Resource Centre",
     "address": "4823 51 St, Camrose, AB T4V 1R9, Canada",
     "phone": "(780) 672-0141",
-    "email": "info@camrosefrc.com",
+    "email": "reservations@lacle.co.za",
     "website": "http://camrosefrc.com/",
-    "modalities": [
-      "Addiction"
-    ],
+    "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJjQnrVtG7ClMRL_AhAGDrSJE"
+  },
+  {
+    "name": "Camrose Pediatric Rehab Svc",
+    "address": "5015 50 Ave, Camrose, AB T4V 1R2, Canada",
+    "phone": "(780) 608-8611",
+    "email": "",
+    "website": "",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJ73JJYcS7ClMRVVEyEL31Xsc"
+  },
+  {
+    "name": "Camrose Physiotherapy & Sports Injury Clinic",
+    "address": "4715 65 St, Camrose, AB T4V 3M5, Canada",
+    "phone": "(780) 679-2247",
+    "email": "admin@camrosephysiotherapy.ca",
+    "website": "http://camrosephysiotherapy.ca/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJ5XggAjS6ClMRpM0r89Sratg"
+  },
+  {
+    "name": "Camrose Primary Care Network",
+    "address": "Rec Centre, 4412 56 St Rm 1110, Suite 4, Camrose, AB T4V 5K4, Canada",
+    "phone": "(780) 608-4927",
+    "email": "",
+    "website": "http://www.camrosepcn.com/",
+    "modalities": [
+      "Grief"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJt6ly_jO6ClMRQxDVLXcVOtA"
   },
   {
     "name": "Camrose Wellness Collective Ltd.",
@@ -3178,6 +3356,31 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJHVkcrsO7ClMRMiq84F8gfts"
+  },
+  {
+    "name": "Canadian Mental Health Association - Calgary Region",
+    "address": "2540 Kensington Rd NW, Calgary, AB T2N 3S3, Canada",
+    "phone": "(403) 297-1700",
+    "email": "dpf.smileservicesinc@sasktel.net",
+    "website": "http://www.cmha.calgary.ab.ca/",
+    "modalities": [
+      "Grief",
+      "Addiction"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJW-UgAwNwcVMRsr_RODyIPvU"
+  },
+  {
+    "name": "Canadian Mental Health Association Edmonton",
+    "address": "10232 106 St, Edmonton, AB T5J 1H7, Canada",
+    "phone": "(780) 414-6300",
+    "email": "ybranch@cmhask.com",
+    "website": "https://edmonton.cmha.ca/",
+    "modalities": [
+      "Grief"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJ4cpVyTEioFMRGYkbejelWSg"
   },
   {
     "name": "Canadian Mental Health Association Main Office",
@@ -3246,16 +3449,6 @@
     "placeId": "ChIJ2wXT41cQdFMRrL1sWo5G6fc"
   },
   {
-    "name": "CapitalCare CHOICE Mental Health",
-    "address": "14225 94 St NW Bldg 3, Edmonton, AB T5E 6C6, Canada",
-    "phone": "(587) 460-2844",
-    "email": "",
-    "website": "http://www.capitalcare.net/Page159.aspx",
-    "modalities": [],
-    "acceptingStudents": false,
-    "placeId": "ChIJvU7GhmIkoFMRWH1szDoCB6k"
-  },
-  {
     "name": "Capstone Counselling",
     "address": "85 Cranford Way #200, Sherwood Park, AB T8H 0H9, Canada",
     "phone": "(780) 701-3459",
@@ -3298,6 +3491,16 @@
     "placeId": "ChIJjeo5-oiyCVMRBNWCDw5z9f4"
   },
   {
+    "name": "Care First Medical",
+    "address": "1301 8 St SW #37, Airdrie, AB T4B 3Y2, Canada",
+    "phone": "(587) 287-1837",
+    "email": "",
+    "website": "http://www.carefirstclinic.ca/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJu8WGfKhfcVMRmBBqNYwOpGY"
+  },
+  {
     "name": "CARE Psychology",
     "address": "28 Gateway Dr NE #103, Airdrie, AB T4B 0J6, Canada",
     "phone": "(587) 600-2971",
@@ -3306,7 +3509,6 @@
     "modalities": [
       "EMDR",
       "Trauma",
-      "Anxiety",
       "Family",
       "Play Therapy",
       "ADHD",
@@ -3516,6 +3718,21 @@
     "placeId": "ChIJFd_rtlMsE1MR9eXGICtkfSk"
   },
   {
+    "name": "CBI Health - Red Deer",
+    "address": "33 Mckenzie Cres #102, Red Deer, AB T4S 2H4, Canada",
+    "phone": "(403) 341-4983",
+    "email": "",
+    "website": "https://www.cbihealth.ca/locations/red-deer?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "modalities": [
+      "CBT",
+      "DBT",
+      "Trauma",
+      "Anxiety"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJ1SioNTBUdFMRrQErFfB4vn8"
+  },
+  {
     "name": "CBT Therapy Center",
     "address": "403 Heritage Crescent, Okotoks, AB T1S 1P2, Canada",
     "phone": "",
@@ -3560,16 +3777,6 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJGXw2zDCZcVMR9L2IkH5KJwg"
-  },
-  {
-    "name": "Central Health Chiropractic & Wellness Clinic",
-    "address": "400 Main St N #110A, Airdrie, AB T4B 2N1, Canada",
-    "phone": "(403) 912-5115",
-    "email": "info@centralhealth.ca",
-    "website": "https://centralhealth.ca/",
-    "modalities": [],
-    "acceptingStudents": false,
-    "placeId": "ChIJe4G2s2hfcVMRLRPdjRNDASI"
   },
   {
     "name": "Central Physiotherapy, Chiropractor & Massage",
@@ -3619,6 +3826,16 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJq6p6LMW7ClMR5kp9Zd3Kt4M"
+  },
+  {
+    "name": "Centre for Wholeness & Well Being",
+    "address": "Brad House, 3911 Trasimeno Cres S W, Calgary, AB T3E 7J6, Canada",
+    "phone": "(825) 413-3100",
+    "email": "",
+    "website": "https://www.calgarywellbeing.com/?utm_source=google&utm_medium=gbp&utm_campaign=website-link",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJHctkIrNtcVMRgsWNeZSGZcg"
   },
   {
     "name": "Centre Hope",
@@ -3761,18 +3978,9 @@
     "name": "Child Inspired Psychology Group, INC",
     "address": "52 Gateway Dr NE, Airdrie, AB T4B 0J6, Canada",
     "phone": "(403) 448-0048",
-    "email": "childinspired@telus.net",
+    "email": "",
     "website": "http://childinspired.net/?utm_source=GBP&utm_medium=website&utm_campaign=airdrie",
-    "modalities": [
-      "CBT",
-      "Trauma",
-      "Anxiety",
-      "Depression",
-      "Family",
-      "Play Therapy",
-      "ADHD",
-      "Assessment"
-    ],
+    "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJK88w-mtfcVMRS19FaU8bCvo"
   },
@@ -4030,6 +4238,16 @@
     "placeId": "ChIJVUHQVMkjoFMRzBTtr7DF7JI"
   },
   {
+    "name": "Clearbridge",
+    "address": "478 Highlands Blvd W, Lethbridge, AB T1J 4W8, Canada",
+    "phone": "(403) 652-0010",
+    "email": "wweeiihhuuaanngg@gmail.com",
+    "website": "https://clearbridge.support/contact",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJN-Lbg0GIblMRQPDDLYpQ62I"
+  },
+  {
     "name": "Clearview Counselling",
     "address": "251 Midpark Blvd SE #201, Calgary, AB T2X 1S3, Canada",
     "phone": "(403) 232-6068",
@@ -4098,7 +4316,19 @@
     "phone": "(587) 321-3213",
     "email": "",
     "website": "https://www.clovercarehealth.com/",
-    "modalities": [],
+    "modalities": [
+      "EMDR",
+      "Trauma",
+      "Anxiety",
+      "Depression",
+      "Couples",
+      "Play Therapy",
+      "Child",
+      "Grief",
+      "Addiction",
+      "ADHD",
+      "Assessment"
+    ],
     "acceptingStudents": false,
     "placeId": "ChIJV3im1uUXoFMRrVzqTamttPQ"
   },
@@ -4157,14 +4387,14 @@
     "placeId": "ChIJBRhBOIZAcVMR_fsN5z8lrrc"
   },
   {
-    "name": "Cochrane Massage Therapy by Jenny Williams",
-    "address": "264 Sunset Heights, Cochrane, AB T4C 0E1, Canada",
-    "phone": "(403) 998-9310",
-    "email": "COCHRANEMASSAGE@GMAIL.COM",
-    "website": "https://jjjeennyy.wixsite.com/mysite",
+    "name": "Cochrane Physiotherapy Clinic and Massage",
+    "address": "100 Grande Blvd, Cochrane, AB T4C 0S4, Canada",
+    "phone": "(403) 932-4909",
+    "email": "",
+    "website": "http://www.cochranephysiotherapy.com/",
     "modalities": [],
     "acceptingStudents": false,
-    "placeId": "ChIJI9wsGINAcVMR86CqRaw2_PE"
+    "placeId": "ChIJI4eppXw_cVMRcmyP9hECRG8"
   },
   {
     "name": "Cochrane Psychology Services",
@@ -4186,14 +4416,14 @@
     "placeId": "ChIJ6UES2JxAcVMR5iZuc2JJVCc"
   },
   {
-    "name": "Cochrane Urgent Care Center",
-    "address": "60 Grande Blvd, Cochrane, AB T4C 0S4, Canada",
-    "phone": "(403) 851-6000",
-    "email": "feedback@myhealth.alberta.ca",
-    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx?id=1003853&serviceAtFacilityID=1074752",
+    "name": "Cochrane Sport Physiotherapy & Massage",
+    "address": "800 Griffin Rd E, Cochrane, AB T4C 2B8, Canada",
+    "phone": "(403) 932-1088",
+    "email": "",
+    "website": "https://cochranesportphysio.ca/",
     "modalities": [],
     "acceptingStudents": false,
-    "placeId": "ChIJS5IG8nw_cVMRgwamXzsFgxk"
+    "placeId": "ChIJsX3a5YZAcVMRgy-vLGllPfs"
   },
   {
     "name": "Collective Healing Centre",
@@ -4309,6 +4539,7 @@
     "email": "user@domain.com",
     "website": "http://www.compassionculturecounselling.ca/",
     "modalities": [
+      "EMDR",
       "Trauma",
       "Anxiety",
       "Depression",
@@ -4322,9 +4553,11 @@
     "name": "Compassionate Central: Counselling & Therapy",
     "address": "5940 Macleod Trl SW Ste 500, Calgary, AB T2H 2G4, Canada",
     "phone": "(587) 328-7732",
-    "email": "",
+    "email": "compassionatecentral@gmail.com",
     "website": "https://www.compassionatecentral.ca/",
-    "modalities": [],
+    "modalities": [
+      "Trauma"
+    ],
     "acceptingStudents": false,
     "placeId": "ChIJndJM3WFxcVMRWpwjKZ3JwCM"
   },
@@ -4350,6 +4583,16 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJ-6Ih2hFXdFMRE2cg1Sd_NPM"
+  },
+  {
+    "name": "Complete Health Chiropractic & Massage",
+    "address": "105 Southbank Blvd #201, Okotoks, AB T1S 0G1, Canada",
+    "phone": "(403) 995-4640",
+    "email": "",
+    "website": "https://www.completehealthcenter.ca/?utm_source=GBP&utm_medium=organic",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJY7JjPtCZcVMRH2FvmI2U950"
   },
   {
     "name": "Complexions Skin Therapy",
@@ -4463,6 +4706,16 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJx_TWIi93cVMRgU-sJdHQejE"
+  },
+  {
+    "name": "Constellation Mama Family Constellations",
+    "address": "21 Elizabeth St, Okotoks, AB T1S 1A8, Canada",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJQ6k-GgCZcVMRy5PyQVfxpiA"
   },
   {
     "name": "Continuum Psychology",
@@ -4654,17 +4907,9 @@
     "name": "Counselling Support Centre Online",
     "address": "108 Edmonton Trail NE, Airdrie, AB T4B 1S1, Canada",
     "phone": "(800) 716-6846",
-    "email": "info@counsellingsupport.ca",
+    "email": "",
     "website": "http://www.counsellingsupportcentre.ca/",
-    "modalities": [
-      "CBT",
-      "Mindfulness",
-      "Anxiety",
-      "Depression",
-      "Couples",
-      "Grief",
-      "Addiction"
-    ],
+    "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJJxEL8CFfcVMRNtGTfNaOpWE"
   },
@@ -4796,16 +5041,6 @@
     "placeId": "ChIJhc2XhFVVdFMRukK3_S06_C4"
   },
   {
-    "name": "Craft Psychology",
-    "address": "Sunalta Business Centre, 2005 10 Ave SW, Calgary, AB T3C 0K4, Canada",
-    "phone": "(587) 435-7580",
-    "email": "",
-    "website": "http://www.craftpsychology.ca/",
-    "modalities": [],
-    "acceptingStudents": false,
-    "placeId": "ChIJnYqiBYFxcVMRj5Bdthvk6VI"
-  },
-  {
     "name": "CRAVE Beauty + Wellness Lab",
     "address": "20 Westwind Dr #222, Spruce Grove, AB T7X 0Y5, Canada",
     "phone": "(780) 948-6662",
@@ -4824,6 +5059,20 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJ445KP2OPn1MRXvoUkvpWAiQ"
+  },
+  {
+    "name": "Creating Solutions Inc",
+    "address": "17420 Stony Plain Rd #208, Edmonton, AB T5S 1K6, Canada",
+    "phone": "(780) 414-0609",
+    "email": "user@domain.com",
+    "website": "http://creating-solutions.com/",
+    "modalities": [
+      "Anxiety",
+      "Couples",
+      "ADHD"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJ5y3U-sKiY0ERDD95BPgHBMw"
   },
   {
     "name": "Creative Minds Consulting Services Inc",
@@ -4906,7 +5155,6 @@
       "DBT",
       "EMDR",
       "Mindfulness",
-      "Trauma",
       "Anxiety",
       "Depression",
       "Couples",
@@ -4958,6 +5206,21 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJVVUlYLeHblMRZq8xFxFEbS4"
+  },
+  {
+    "name": "Crystal River Counsellors",
+    "address": "10642 178 St NW #100, Edmonton, AB T5S 1H4, Canada",
+    "phone": "(587) 853-0558",
+    "email": "user@domain.com",
+    "website": "http://www.crystalrivercounsellors.com/?utm_source=google&utm_medium=organic&utm_campaign=GBP",
+    "modalities": [
+      "Trauma",
+      "Anxiety",
+      "Couples",
+      "ADHD"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJn94SPxUhoFMRVcc2wHHfev4"
   },
   {
     "name": "CS Counselling Services",
@@ -5125,6 +5388,16 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJr_7PBsVVdFMRxgIN5rfYQqk"
+  },
+  {
+    "name": "DC Therapy | Psychology and Counselling Services",
+    "address": "One Executive Place, 1816 Crowchild Trail NW Ste 700, Calgary, AB T2M 3Y7, Canada",
+    "phone": "(403) 604-9404",
+    "email": "",
+    "website": "https://dctherapyonline.com/?utm_source=gbp&utm_medium=organic",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJS_MrYCRvcVMRNSvsIj-wMhI"
   },
   {
     "name": "Deb Vernon",
@@ -5447,19 +5720,6 @@
     "placeId": "ChIJVat94eQloFMRgCy-8-3xZdM"
   },
   {
-    "name": "Dr. Nancy Hurst",
-    "address": "10069 80 Ave NW, Edmonton, AB T6E 1T4, Canada",
-    "phone": "(780) 482-1847",
-    "email": "drnancyhurst@shaw.ca",
-    "website": "http://www.nancyhurst.ca/",
-    "modalities": [
-      "Anxiety",
-      "Depression"
-    ],
-    "acceptingStudents": false,
-    "placeId": "ChIJW_y18jAioFMR_e3opqLd-C4"
-  },
-  {
     "name": "Dr. Patrick Keelan",
     "address": "70 Railway St E Unit 4, Cochrane, AB T4C 2B7, Canada",
     "phone": "(403) 324-1875",
@@ -5484,6 +5744,26 @@
     "placeId": "ChIJAQCw4ZCyCVMRCnAjPYikxbc"
   },
   {
+    "name": "Dr. Ziegenhagel & Associates Family Dentistry",
+    "address": "201 Grande Blvd #8, Cochrane, AB T4C 2G4, Canada",
+    "phone": "(403) 932-2477",
+    "email": "user@domain.com",
+    "website": "http://www.dr-z.ca/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJcfLzyXw_cVMR4PRYOQZ9JDA"
+  },
+  {
+    "name": "Dragonfly Psychological Services",
+    "address": "1407 10 St SW, Calgary, AB T2R 1E7, Canada",
+    "phone": "(403) 768-1044",
+    "email": "",
+    "website": "http://www.dragonflycalgary.com/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJvTYMm99vcVMRvQoG3GnbD10"
+  },
+  {
     "name": "Driftwood Balance - Massage & Wellness",
     "address": "431 40 St S, Lethbridge, AB T1J 4M1, Canada",
     "phone": "(587) 394-6541",
@@ -5494,6 +5774,23 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJeb2B-fiHblMRchoNaBuhACk"
+  },
+  {
+    "name": "Drop of Dew Counselling",
+    "address": "1524 91 St SW #201, Edmonton, AB T6X 1M5, Canada",
+    "phone": "(587) 882-8872",
+    "email": "info@dropofdew.ca",
+    "website": "https://dropofdew.ca/",
+    "modalities": [
+      "EMDR",
+      "Trauma",
+      "Anxiety",
+      "Depression",
+      "Couples",
+      "Addiction"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJJ2RPPaMdoFMRMsZ4TIqmS_E"
   },
   {
     "name": "Drop-in Single Session Counselling",
@@ -5582,16 +5879,6 @@
     "placeId": "ChIJWxojl86Pn1MRKnaf7okPzWw"
   },
   {
-    "name": "E&W Alina Massage",
-    "address": "128 Silin Forest Rd, Fort McMurray, AB T9H 3A1, Canada",
-    "phone": "(780) 607-9236",
-    "email": "",
-    "website": "http://www.alinamassages.com/",
-    "modalities": [],
-    "acceptingStudents": false,
-    "placeId": "ChIJBUTze5wJsFMRyxkVsF2aCnQ"
-  },
-  {
     "name": "Eastgate Physiotherapy Clinic Sherwood Park",
     "address": "937 Fir St Suite #100, Sherwood Park, AB T8A 4N6, Canada",
     "phone": "(780) 467-3848",
@@ -5617,6 +5904,16 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJEZCbdyl7cVMR4twtQ_my_xw"
+  },
+  {
+    "name": "Eat Sleep and Grow Inc.",
+    "address": "9901 97 Ave #203, Grande Prairie, AB T8V 0T8, Canada",
+    "phone": "(780) 402-1394",
+    "email": "info@indiantypefoundry.com",
+    "website": "https://eatsleepandgrow.com/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJq6rqG0uRkFMRwvbr_qPY_us"
   },
   {
     "name": "Eden Health & Wellness Inc.",
@@ -5839,6 +6136,21 @@
     "placeId": "ChIJrwUdzKlBcVMRxCdmqr-JQjQ"
   },
   {
+    "name": "Embodied Psychology",
+    "address": "1524 91 St SW #210, Edmonton, AB T6X 1M5, Canada",
+    "phone": "(780) 482-4357",
+    "email": "",
+    "website": "http://www.embodiedpsychology.ca/",
+    "modalities": [
+      "EMDR",
+      "Mindfulness",
+      "Trauma",
+      "Anxiety"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJIdqqKPYhoFMR1LtHdycH3Rk"
+  },
+  {
     "name": "Embody Counselling & Coaching Inc.",
     "address": "548 Laura Ave #102, Red Deer County, AB T4E 0A5, Canada",
     "phone": "(403) 597-5546",
@@ -5905,20 +6217,6 @@
     "placeId": "ChIJFxYt_fUnoFMR8tQ1-9_n8uQ"
   },
   {
-    "name": "Eminence Wellness Massage & Reflexology",
-    "address": "501 11 Ave #2, Nisku, AB T9E 7N5, Canada",
-    "phone": "(780) 900-9188",
-    "email": "info@ndiscovered.com",
-    "website": "http://www.eminencewellness.ca/",
-    "modalities": [
-      "Anxiety",
-      "Depression",
-      "Couples"
-    ],
-    "acceptingStudents": false,
-    "placeId": "ChIJdSnFsx75n1MRPRwbeiRc1yA"
-  },
-  {
     "name": "Emma Bulman Counselling",
     "address": "125 Mahogany St S E #105, Calgary, AB T3M 0T2, Canada",
     "phone": "(403) 827-5711",
@@ -5951,6 +6249,19 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJ3zWehw5jmwoRzOKo9lgjESs"
+  },
+  {
+    "name": "Empowered Life Counselling",
+    "address": "5920 Macleod Trl SW #460, Calgary, AB T2H 0K1, Canada",
+    "phone": "(403) 768-3810",
+    "email": "info@empoweredlifecounselling.com",
+    "website": "https://empoweredlifecounselling.com/",
+    "modalities": [
+      "Mindfulness",
+      "Couples"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJM0Jf25xxcVMR0r8A7NeZhVc"
   },
   {
     "name": "Empowered Solutions",
@@ -6011,6 +6322,22 @@
     "placeId": "ChIJJ5ukA3X5n1MRKDUvQ0RNYjU"
   },
   {
+    "name": "Envision Mind Care",
+    "address": "9807 106 St, Edmonton, AB T5K 1C2, Canada",
+    "phone": "(780) 306-2345",
+    "email": "user@domain.com",
+    "website": "http://www.envisionmindcare.com/",
+    "modalities": [
+      "Trauma",
+      "Anxiety",
+      "Depression",
+      "Addiction",
+      "ADHD"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJ76yRMnP1n1MROEw3e7AlKWY"
+  },
+  {
     "name": "Envision Occupational Therapy",
     "address": "212 Main St N, Airdrie, AB T4B 0R6, Canada",
     "phone": "(403) 399-2376",
@@ -6038,24 +6365,6 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJM31lFMyHblMRgGU_Oe8HriY"
-  },
-  {
-    "name": "Equinox Therapeutic - Psychologists West Edmonton",
-    "address": "10787 180 St NW #201, Edmonton, AB T5S 1G6, Canada",
-    "phone": "(780) 885-6454",
-    "email": "info@equinoxtherapeutic.com",
-    "website": "https://equinoxtherapeutic.com/?utm_source=GBPlisting&utm_medium=organic",
-    "modalities": [
-      "EMDR",
-      "Trauma",
-      "Anxiety",
-      "Depression",
-      "Couples",
-      "Grief",
-      "ADHD"
-    ],
-    "acceptingStudents": false,
-    "placeId": "ChIJtRsDptggoFMRRME0nIW3uvU"
   },
   {
     "name": "Erica Ford Psychology",
@@ -6127,24 +6436,6 @@
     "placeId": "ChIJDR4nA3hVdFMRdERR5O8nrL8"
   },
   {
-    "name": "ETC Anger Management Counselling Calgary",
-    "address": "909 17 Ave SW Ste 400, Calgary, AB T2T 0A4, Canada",
-    "phone": "(587) 581-8493",
-    "email": "user@domain.com",
-    "website": "https://www.emotionstherapycalgary.ca/anger-management-calgary",
-    "modalities": [
-      "CBT",
-      "DBT",
-      "EMDR",
-      "Trauma",
-      "Anxiety",
-      "Depression",
-      "Couples"
-    ],
-    "acceptingStudents": false,
-    "placeId": "ChIJ68P89CVxcVMRvBgQ4HEoLaw"
-  },
-  {
     "name": "Eudaimonia Wellness",
     "address": "536 Laura Ave, Red Deer County, AB T4S 1Y2, Canada",
     "phone": "(587) 207-8477",
@@ -6167,6 +6458,16 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJTzucqpFxcVMRtTIKNHbazPg"
+  },
+  {
+    "name": "Everyday Wellness with Em",
+    "address": "2 Woods Pl., Leduc, AB T9E 8T1, Canada",
+    "phone": "",
+    "email": "user@domain.com",
+    "website": "https://everydaywellnesswithem.ca/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJozmukDYWgYYRiMcNECl9MGk"
   },
   {
     "name": "Evolution Physiotherapy Okotoks",
@@ -6241,6 +6542,26 @@
     "placeId": "ChIJteeOaC-RkFMRo61wBKZrRIA"
   },
   {
+    "name": "Evolve Physical Therapy",
+    "address": "40 South Ave Unit 3, Spruce Grove, AB T7X 3A9, Canada",
+    "phone": "(780) 960-4836",
+    "email": "michelle@evolvephysicaltherapy.ca",
+    "website": "http://evolvephysicaltherapy.ca/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJAQDQ9e2On1MRgx_N_NtpWSY"
+  },
+  {
+    "name": "Excel Physical Therapy Ltd",
+    "address": "568 South Railway St SE #3, Medicine Hat, AB T1A 2V6, Canada",
+    "phone": "(403) 504-1004",
+    "email": "",
+    "website": "https://www.excelpt.ca/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJLdHjdVEsE1MR45KqUfo4PbM"
+  },
+  {
     "name": "Excel Psychological Services",
     "address": "155 Nolanridge Ct NW 3rd floor, suite 310, Calgary, AB T3R 2A8, Canada",
     "phone": "",
@@ -6270,33 +6591,44 @@
     "placeId": "ChIJuRtaJNEXoFMR8miDAo0nztk"
   },
   {
+    "name": "Exhale Psychology Group",
+    "address": "3528 114 Ave SE, Calgary, AB T2C 0J4, Canada",
+    "phone": "(587) 288-7456",
+    "email": "alina@exhale-psychology.ca",
+    "website": "https://www.exhale-psychology.ca/?utm_source=organic&utm_medium=gmb",
+    "modalities": [
+      "CBT",
+      "EMDR",
+      "Mindfulness",
+      "Trauma",
+      "Anxiety",
+      "Couples",
+      "Family"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJ1eegPq13cVMRcG8Q6ydvHOM"
+  },
+  {
     "name": "Expressive Sandplay Counselling",
     "address": "102 St 10405, Grande Prairie County No. 1, AB T8V 2W5, Canada",
     "phone": "(780) 512-1093",
     "email": "user@domain.com",
     "website": "http://expressivesandplaycounselling.com/",
-    "modalities": [
-      "CBT",
-      "DBT",
-      "Mindfulness",
-      "Trauma",
-      "Anxiety",
-      "Depression",
-      "Play Therapy",
-      "ADHD"
-    ],
+    "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJO6dX-MWRkFMRWLvPWLyyBYw"
   },
   {
-    "name": "Family & Psychological Svc",
-    "address": "22 Sir Winston Churchill Ave, St. Albert, AB T8N 7T4, Canada",
-    "phone": "(780) 459-0221",
+    "name": "Fairway Divorce Solutions - Airdrie",
+    "address": "401 Coopers Blvd SW #1102, Airdrie, AB T4B 4J3, Canada",
+    "phone": "(403) 355-9955",
     "email": "",
-    "website": "",
-    "modalities": [],
+    "website": "https://fairwaydivorce.com/locations/alberta/airdrie/?utm_campaign=gmb",
+    "modalities": [
+      "Couples"
+    ],
     "acceptingStudents": false,
-    "placeId": "ChIJ53Xm5nkmoFMRXHsVKLpqiSA"
+    "placeId": "ChIJSyw-pg1fcVMRhCoz40JcXk0"
   },
   {
     "name": "Family and Community Services Strathcona County",
@@ -6419,6 +6751,16 @@
     "placeId": "ChIJcaRNNCRUdFMR_uEaeZ0ius0"
   },
   {
+    "name": "Family Legacy Chiropractic",
+    "address": "106 Southbank Road #202, Okotoks, AB T1S 5V4, Canada",
+    "phone": "(403) 995-0855",
+    "email": "",
+    "website": "https://www.legacychiro.ca/?utm_source=GBP&utm_medium=organic",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJRQvzGymYcVMRcezSpuSqEIQ"
+  },
+  {
     "name": "Family Life Massage",
     "address": "20 Westwind Dr, Spruce Grove, AB T7X 0V6, Canada",
     "phone": "(780) 963-7451",
@@ -6521,6 +6863,18 @@
     "placeId": "ChIJq5j9JWGGblMRXMXhwHeQ1M8"
   },
   {
+    "name": "Family Solutions Group",
+    "address": "1207 91 St SW Ste 302, Edmonton, AB T6X 1E9, Canada",
+    "phone": "(780) 430-7752",
+    "email": "",
+    "website": "https://familysolutionsgroup.ca/",
+    "modalities": [
+      "Trauma"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJDdUko8gfoFMRyJHxhxOEHEc"
+  },
+  {
     "name": "Family Ties (1997) Association",
     "address": "909 3 Ave N, Lethbridge, AB T1H 0H5, Canada",
     "phone": "(403) 320-8888",
@@ -6529,6 +6883,16 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJdRhej8eHblMR49C0ZiMKm8w"
+  },
+  {
+    "name": "Family-School Wellness Program",
+    "address": "3310 55 Ave, Red Deer, AB T4N 4N1, Canada",
+    "phone": "(403) 342-4528",
+    "email": "",
+    "website": "",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJ--fxSaFWdFMRo0sxMyDnces"
   },
   {
     "name": "Fill Your Cup Counselling & Leanna Santangelo Counselling",
@@ -6575,7 +6939,7 @@
   },
   {
     "name": "Fischer Humanistics Inc.",
-    "address": "519 2 St SE #1, Medicine Hat, AB T1A 0C5, Canada",
+    "address": "519 2 St SE Suite 1, Medicine Hat, AB T1A 0C5, Canada",
     "phone": "(403) 525-7861",
     "email": "",
     "website": "http://fischerhumanistics.ca/",
@@ -6607,6 +6971,22 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJ6aG5ESFUdFMRzk6Tpk7tq1Y"
+  },
+  {
+    "name": "Fletcher Psychology",
+    "address": "914 19 Ave SE, Calgary, AB T2G 1L8, Canada",
+    "phone": "(825) 462-1542",
+    "email": "accessibility@psychologytoday.com",
+    "website": "https://www.psychologytoday.com/profile/1257435",
+    "modalities": [
+      "EMDR",
+      "ACT",
+      "Trauma",
+      "Addiction",
+      "ADHD"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJsW8woV13cVMRcYnx9-pIcpQ"
   },
   {
     "name": "Flex Physio & Wellness",
@@ -6681,7 +7061,7 @@
     "name": "Flourish Psychological Services",
     "address": "11420 27 St SE #307, Calgary, AB T2Z 3R6, Canada",
     "phone": "(403) 910-5866",
-    "email": "info@flourishpsychology.ca",
+    "email": "",
     "website": "https://www.flourishpsychology.ca/?utm_campaign=gmb",
     "modalities": [],
     "acceptingStudents": false,
@@ -6729,6 +7109,28 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJ1XOxEmWXcVMRFZub6gQ9mYE"
+  },
+  {
+    "name": "Focus Counselling Calgary",
+    "address": "600 Crowfoot Crescent NW #340, Calgary, AB T3G 0B4, Canada",
+    "phone": "(587) 803-1854",
+    "email": "",
+    "website": "https://www.focuscounselling.ca/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJcxNUQHdlcVMRw5oUBc_2Wu0"
+  },
+  {
+    "name": "Foothills Country Hospice Society",
+    "address": "322001 32 St E, Okotoks, AB T1S 1A5, Canada",
+    "phone": "(403) 995-4673",
+    "email": "",
+    "website": "http://www.countryhospice.org/",
+    "modalities": [
+      "Grief"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJg2njxcyZcVMRnbHBNxn1Vy8"
   },
   {
     "name": "Foothills Family Counselling",
@@ -6869,14 +7271,21 @@
     "name": "FORWARD Psychology & Wellness",
     "address": "10171 Saskatchewan Dr NW, Edmonton, AB T6E 2J9, Canada",
     "phone": "(866) 752-9446",
-    "email": "Admin@FORWARDPsych.com",
+    "email": "",
     "website": "http://www.forwardpsych.com/",
-    "modalities": [
-      "Anxiety",
-      "ADHD"
-    ],
+    "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJ2WL29dwjoFMRnhV36cw44jo"
+  },
+  {
+    "name": "Foundations Family Psychology",
+    "address": "109 Stockton Point #10, Okotoks, AB T1S 1B7, Canada",
+    "phone": "(403) 862-4645",
+    "email": "user@domain.com",
+    "website": "https://www.foundationsfamilypsychology.com/contact",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJtRYpdnqXcVMRsb86ffYYtkY"
   },
   {
     "name": "FP Counselling",
@@ -6993,7 +7402,6 @@
     "website": "http://freshstartcounselingpllc.com/",
     "modalities": [
       "EMDR",
-      "Trauma",
       "Anxiety",
       "Depression"
     ],
@@ -7012,6 +7420,21 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJzUDePMyHblMRbXcmbuZOe84"
+  },
+  {
+    "name": "Frida ADHD Clinic",
+    "address": "700 2 St SW #3200, Calgary, AB T2P 1B5, Canada",
+    "phone": "(587) 844-6287",
+    "email": "support@talkwithfrida.com",
+    "website": "https://talkwithfrida.com/",
+    "modalities": [
+      "CBT",
+      "Anxiety",
+      "Depression",
+      "ADHD"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJDX2MJ85vcVMR0QwxxKuLBHg"
   },
   {
     "name": "Fritzke Counselling & Psychological Services",
@@ -7096,16 +7519,6 @@
     "placeId": "ChIJcaBC7ImOn1MROWK98HOoZ-I"
   },
   {
-    "name": "Fyidoctors Okotoks - Southridge",
-    "address": "201 Southridge Dr Ste 303, Okotoks, AB T1S 2E1, Canada",
-    "phone": "(403) 938-4300",
-    "email": "Okotoks@fyidoctors.com",
-    "website": "https://fyidoctors.com/pages/fyidoctors-okotoks",
-    "modalities": [],
-    "acceptingStudents": false,
-    "placeId": "ChIJowXY1CiYcVMR3MFmdDi8bBk"
-  },
-  {
     "name": "Fèath & Elemi- Massage and Wellness Clinic",
     "address": "676 Kingsway Ave SE, Medicine Hat, AB T1A 2X1, Canada",
     "phone": "(403) 526-2639",
@@ -7152,16 +7565,6 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJbdKB--lvcVMRxf-bUvCxKdg"
-  },
-  {
-    "name": "Gateway Psychology",
-    "address": "Ordze Rd, Sherwood Park, AB T8B 0C5, Canada",
-    "phone": "(587) 400-0302",
-    "email": "",
-    "website": "",
-    "modalities": [],
-    "acceptingStudents": false,
-    "placeId": "ChIJqXRCxEkXoFMRFmWps80mqbQ"
   },
   {
     "name": "GATEWAY THERAPY COUNSELLING CENTRE",
@@ -7333,8 +7736,6 @@
     "email": "user@domain.com",
     "website": "https://www.greatnorththerapyservices.ca/",
     "modalities": [
-      "Mindfulness",
-      "Trauma",
       "Anxiety",
       "Depression",
       "Couples"
@@ -7356,18 +7757,21 @@
     "name": "Green Door Clinic Edmonton",
     "address": "11044 82 Ave NW #440, Edmonton, AB T6E 4E1, Canada",
     "phone": "(587) 989-5292",
-    "email": "Lindsay@greendooryeg.ca",
+    "email": "",
     "website": "http://www.greendooryeg.ca/",
-    "modalities": [
-      "Trauma",
-      "Anxiety",
-      "Depression",
-      "Child",
-      "Grief",
-      "ADHD"
-    ],
+    "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJFQ3d3lEjoFMR3ePMqZmLgN8"
+  },
+  {
+    "name": "Green Tree Wellness Centres",
+    "address": "423 7th St SW, Medicine Hat, AB T1A 4K4, Canada",
+    "phone": "(403) 528-2299",
+    "email": "",
+    "website": "http://www.greentree.ca/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJ7xJ23OQsE1MRbuxva2AaN9E"
   },
   {
     "name": "Greenberg Psychological Services",
@@ -7385,15 +7789,7 @@
     "phone": "(780) 901-2638",
     "email": "",
     "website": "http://www.edmontonpsychologist.com/",
-    "modalities": [
-      "Trauma",
-      "Anxiety",
-      "Depression",
-      "Couples",
-      "Grief",
-      "Addiction",
-      "ADHD"
-    ],
+    "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJtXAfQA8joFMRf7Ahnz_YQH4"
   },
@@ -7512,6 +7908,16 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJIXxgujOPn1MRhPvNQ5qqLag"
+  },
+  {
+    "name": "Groundwork Psychology",
+    "address": "4220 98 St NW Ste 204, Edmonton, AB T6E 6A1, Canada",
+    "phone": "",
+    "email": "",
+    "website": "https://www.groundworkpsychology.ca/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJlYzkbNUZoFMRtqAarB2Veig"
   },
   {
     "name": "Gwynneth Moore Massage Therapist",
@@ -7640,6 +8046,16 @@
     "placeId": "ChIJB2AHy4UnoFMRV0EkLdIdSu0"
   },
   {
+    "name": "Harmony Health Integrative Centre",
+    "address": "109 Southbank Blvd #113, Okotoks, AB T1S 0G1, Canada",
+    "phone": "(403) 938-1138",
+    "email": "info@harmony-health.ca",
+    "website": "http://www.harmony-health.ca/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJk2yXZzSYcVMRcTq01zLcJNk"
+  },
+  {
     "name": "Harper Psychology",
     "address": "117 1 St NW, Airdrie, AB T4B 0R3, Canada",
     "phone": "(403) 890-8524",
@@ -7660,16 +8076,6 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJfVG-ofxvcVMRquag9qQ-JKo"
-  },
-  {
-    "name": "Haus Of Body | Cryotherapy | Redlight Therapy | Lymphatic Drainage & More",
-    "address": "712 4 St SE Unit 1, Medicine Hat, AB T1A 0L2, Canada",
-    "phone": "(403) 504-6102",
-    "email": "",
-    "website": "https://www.hausofbodymh.com/",
-    "modalities": [],
-    "acceptingStudents": false,
-    "placeId": "ChIJA6V4_mEtE1MRfbkX0_FVaI4"
   },
   {
     "name": "Haven Clinical Counselling",
@@ -7800,6 +8206,16 @@
     "placeId": "ChIJmTbXIAVBcVMRESQ2RQLkNkw"
   },
   {
+    "name": "Healing Hands Massage Therapy & Reflexology",
+    "address": "4909 49 St, Lloydminster, SK S9V 0L9, Canada",
+    "phone": "(780) 205-6122",
+    "email": "support@coconutcalendar.zendesk.com",
+    "website": "http://healinghands.coconutcalendar.com/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJofmj4ZayCVMRE4GfynvufgI"
+  },
+  {
     "name": "Healing Hands Oasis",
     "address": "431 N Railway St SE, Medicine Hat, AB T1A 2Z3, Canada",
     "phone": "(403) 548-5302",
@@ -7840,27 +8256,6 @@
     "placeId": "ChIJVRoSagAloFMR2t-Qkj2_Pe0"
   },
   {
-    "name": "Healing Journey Collective Inc.",
-    "address": "10601 Southport Rd SW Ste 301a, Calgary, AB T2W 3M6, Canada",
-    "phone": "(587) 220-7789",
-    "email": "hello@healingjourneycollective.ca",
-    "website": "https://healingjourneycollective.ca/",
-    "modalities": [
-      "CBT",
-      "DBT",
-      "EMDR",
-      "EFT",
-      "Trauma",
-      "Anxiety",
-      "Depression",
-      "Couples",
-      "Family",
-      "Grief"
-    ],
-    "acceptingStudents": false,
-    "placeId": "ChIJX-Y8_jCHblMRByKGgpv0YDE"
-  },
-  {
     "name": "Healing Journey Wellness Centre",
     "address": "4911 50 St, Stony Plain, AB T7Z 1T1, Canada",
     "phone": "(780) 963-6233",
@@ -7869,6 +8264,24 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJ2bOW1BKRn1MRkBAe7cw6TZo"
+  },
+  {
+    "name": "Healing Pathways EMDR Counselling",
+    "address": "4309 Sundance Rd, Coalhurst, AB T0L 0V2, Canada",
+    "phone": "(403) 593-1807",
+    "email": "info@indiantypefoundry.com",
+    "website": "https://healingpathwaysemdrcounselling.ca/",
+    "modalities": [
+      "EMDR",
+      "Trauma",
+      "Anxiety",
+      "Depression",
+      "Family",
+      "Grief",
+      "Addiction"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJJeQ-ZsFiblMR6wP1QUP5TEE"
   },
   {
     "name": "Healing Point Massage Therapy",
@@ -7974,13 +8387,20 @@
     "modalities": [
       "EMDR",
       "Trauma",
-      "Anxiety",
-      "Depression",
-      "Couples",
-      "Grief"
+      "Couples"
     ],
     "acceptingStudents": false,
     "placeId": "ChIJOxbVjewloFMR4TzRjh02Ii8"
+  },
+  {
+    "name": "Heartland Psychology",
+    "address": "9940 99 Ave Unit 380, Fort Saskatchewan, AB T8L 4G8, Canada",
+    "phone": "(780) 239-5893",
+    "email": "",
+    "website": "http://heartlandpsychology.com/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJ9QBAGZJHoFMRncQ5q2qa-aI"
   },
   {
     "name": "Hedebring Psychological Services",
@@ -8265,6 +8685,16 @@
     "placeId": "ChIJdVDl6mWzCVMRftopapX6Gq8"
   },
   {
+    "name": "Hometown Well-Being Collective",
+    "address": "200 Southridge Dr #1021, Okotoks, AB T1S 0N8, Canada",
+    "phone": "(403) 982-3100",
+    "email": "well-being@hometowndental.ca",
+    "website": "http://www.hometownwellbeing.ca/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJSRLdaL2XcVMR6Xk7REsClf0"
+  },
+  {
     "name": "Hope & Healing Sanctuary - Counselling Services",
     "address": "105 Elma St W, Okotoks, AB T1S 1J9, Canada",
     "phone": "(403) 917-0167",
@@ -8344,26 +8774,6 @@
     "placeId": "ChIJYQf18Ys9oFMR2TpgnOU1oAQ"
   },
   {
-    "name": "Hrushka Cory",
-    "address": "2532 Ellwood Dr SW, Edmonton, AB T6X 0A9, Canada",
-    "phone": "(780) 461-1717",
-    "email": "",
-    "website": "http://www.theravive.com/cities/ab/counselling-edmonton.aspx",
-    "modalities": [
-      "DBT",
-      "EMDR",
-      "Trauma",
-      "Anxiety",
-      "Depression",
-      "Couples",
-      "Family",
-      "Grief",
-      "Addiction"
-    ],
-    "acceptingStudents": false,
-    "placeId": "ChIJ8yu0vM4eoFMREGa_aq6ek2U"
-  },
-  {
     "name": "Human Growth Hormone Injections Therapy Center",
     "address": "9715 Hardin St, Fort McMurray, AB T9H 4K3, Canada",
     "phone": "",
@@ -8384,32 +8794,6 @@
     "placeId": "ChIJ3Ub0dfOv7akRJfkr2pOaaes"
   },
   {
-    "name": "Human Integrated Performance",
-    "address": "14101 West Block Dr NW Ste 205, Edmonton, AB T5N 1L5, Canada",
-    "phone": "(780) 862-3111",
-    "email": "info@yeghip.com",
-    "website": "https://yeghip.com/?utm_campaign=gmb",
-    "modalities": [
-      "Mindfulness",
-      "Trauma",
-      "Anxiety",
-      "Depression",
-      "Grief"
-    ],
-    "acceptingStudents": false,
-    "placeId": "ChIJ8eTGigIjoFMR2y5vnJOV3fs"
-  },
-  {
-    "name": "HumanaCare",
-    "address": "10405 102 St, Grande Prairie, AB T8V 2W5, Canada",
-    "phone": "(780) 538-4070",
-    "email": "customer.service@greenshield.ca",
-    "website": "http://humanacare.com/",
-    "modalities": [],
-    "acceptingStudents": false,
-    "placeId": "ChIJO6suuEqRkFMReLptzXAoPP8"
-  },
-  {
     "name": "Humanessense Inc",
     "address": "101 Sunset Dr, Cochrane, AB T4C 0W8, Canada",
     "phone": "(403) 559-8890",
@@ -8420,16 +8804,16 @@
     "placeId": "ChIJeTyO-W4_cVMRcd07qwxvkMM"
   },
   {
-    "name": "Hypnosis for Health and Happiness Red Deer",
-    "address": "4406 50 Ave #302, Red Deer, AB T4N 6H2, Canada",
+    "name": "Hypnosis for Health and Happiness Camrose",
+    "address": "4909 C 48 St, Camrose, AB T4V 3K9, Canada",
     "phone": "(403) 334-9766",
     "email": "",
-    "website": "https://www.hypnosisforhealthandhappiness.ca/",
+    "website": "http://www.hypnosisforhealthandhappiness.ca/",
     "modalities": [
       "Addiction"
     ],
     "acceptingStudents": false,
-    "placeId": "ChIJsaW-xGtoC1MRULDW4oceYDI"
+    "placeId": "ChIJ6xSLuny7ClMR4BpmVj0pV30"
   },
   {
     "name": "I Got Your Back Massage Therapy",
@@ -8486,9 +8870,14 @@
     "name": "Imagine Laserworks Lloydminster",
     "address": "5101 48 St #106, Lloydminster, AB T9V 0H9, Canada",
     "phone": "(780) 861-1575",
-    "email": "",
+    "email": "info@imaginelaserworks.com",
     "website": "https://www.imaginelaserworks.com/locations/lloydminster-ab/",
-    "modalities": [],
+    "modalities": [
+      "Anxiety",
+      "Depression",
+      "Addiction",
+      "ADHD"
+    ],
     "acceptingStudents": false,
     "placeId": "ChIJyYOnuwKzCVMRoGi4s-73fM4"
   },
@@ -8498,12 +8887,7 @@
     "phone": "(587) 410-2610",
     "email": "user@domain.com",
     "website": "http://www.imatter2.com/",
-    "modalities": [
-      "EMDR",
-      "Trauma",
-      "Anxiety",
-      "Grief"
-    ],
+    "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJdYglXYltcVMR5NCIut4VVP8"
   },
@@ -8598,6 +8982,16 @@
     "placeId": "ChIJf_LdZKG7ClMRia33wdCTEKE"
   },
   {
+    "name": "Infants to Athletes Massage Therapy",
+    "address": "104 13 St N Unit 236, Lethbridge, AB T1H 2R4, Canada",
+    "phone": "(587) 257-5587",
+    "email": "",
+    "website": "http://infantstoathletes.com/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJAyrm-nqHblMRlMnxeakWoI0"
+  },
+  {
     "name": "Infinite Light transformation services",
     "address": "10530 117 Ave Unit 113, Grande Prairie, AB T8V 7N7, Canada",
     "phone": "(780) 919-3935",
@@ -8618,6 +9012,16 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJ46LChsFfcVMRc1lHW6DPBB8"
+  },
+  {
+    "name": "Infused With Love - Wellness",
+    "address": "23 Graywood Cove, Stony Plain, AB T7Z 2P3, Canada",
+    "phone": "(587) 335-0363",
+    "email": "",
+    "website": "http://www.infusedwithlovewellness.ca/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJsx7Z5aiPn1MRxVVPqzBRYj0"
   },
   {
     "name": "Infusion Counselling",
@@ -8653,12 +9057,24 @@
     "placeId": "ChIJiZVcsmiPn1MRFj-zQ_Aw6fc"
   },
   {
+    "name": "Inner Core Counselling Lacombe",
+    "address": "5017 50 St, Lacombe, AB T4L 1W8, Canada",
+    "phone": "(403) 597-8242",
+    "email": "",
+    "website": "http://www.innercorecounselling.com/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJI-LpCZ5vGgMRq9BR33cgw8c"
+  },
+  {
     "name": "Inner Essence Wellness",
     "address": "111 Broadway Blvd #108, Sherwood Park, AB T8H 1A4, Canada",
     "phone": "(780) 232-4259",
-    "email": "",
+    "email": "Jennifer@inneressence.ca",
     "website": "http://www.inneressencewellnesscentre.com/",
-    "modalities": [],
+    "modalities": [
+      "Anxiety"
+    ],
     "acceptingStudents": false,
     "placeId": "ChIJB9b4-9AXoFMRcrx01deVVls"
   },
@@ -8669,7 +9085,9 @@
     "email": "contactinnerpeacecoaching@gmail.com",
     "website": "http://innerpeace-coaching.com/",
     "modalities": [
-      "Trauma"
+      "Trauma",
+      "Anxiety",
+      "ADHD"
     ],
     "acceptingStudents": false,
     "placeId": "ChIJywJGQzYH3gYR3tjYWETTjhQ"
@@ -8680,7 +9098,13 @@
     "phone": "(587) 501-1827",
     "email": "",
     "website": "https://ourinnerstrength.ca/",
-    "modalities": [],
+    "modalities": [
+      "Trauma",
+      "Anxiety",
+      "Depression",
+      "Couples",
+      "Grief"
+    ],
     "acceptingStudents": false,
     "placeId": "ChIJx1FcLnwZoFMRuI_FMAnEFFs"
   },
@@ -8756,6 +9180,16 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJA-lOfKktE1MRrJ00KxzmwnU"
+  },
+  {
+    "name": "Insight Psychological - Calgary",
+    "address": "8888 Country Hills Blvd NW Ste 600 Room 106, Calgary, AB T3G 0B6, Canada",
+    "phone": "(403) 252-1716",
+    "email": "",
+    "website": "https://www.insightpsychological.ca/contact/calgary/?utm_source=google&utm_medium=gmb&utm_campaign=website_link-calgary",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJx6D4lv1wcVMRVIQJb8iiLA4"
   },
   {
     "name": "Insight Psychological - Central",
@@ -8888,16 +9322,6 @@
     "placeId": "ChIJvyqxtcyZcVMRAB09EBN8-sc"
   },
   {
-    "name": "Integral Counselling",
-    "address": "202 11 St S, Lethbridge, AB T1J 0C8, Canada",
-    "phone": "",
-    "email": "",
-    "website": "",
-    "modalities": [],
-    "acceptingStudents": false,
-    "placeId": "ChIJR6BHkMmHblMR8ckz8CdJ1WE"
-  },
-  {
     "name": "Integrated Energy Psychology",
     "address": "35 Blackfoot Rd, Sherwood Park, AB T8A 4W5, Canada",
     "phone": "(780) 975-0629",
@@ -8991,6 +9415,30 @@
     "placeId": "ChIJ8XsevfpxoUURh1EKc7ynJe0"
   },
   {
+    "name": "Intentional Living Solutions",
+    "address": "6209 44 St 4 suite a, Lloydminster, AB T9V 1V8, Canada",
+    "phone": "(306) 307-9850",
+    "email": "",
+    "website": "",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJXTwVhouzCVMR8wPu77vmjyU"
+  },
+  {
+    "name": "Intentional Path Mental Health",
+    "address": "903 8 Ave SW #900, Calgary, AB T2P 0P7, Canada",
+    "phone": "(403) 613-2141",
+    "email": "charlie@intentionalpathmentalhealth.com",
+    "website": "https://intentionalpathmentalhealth.com/",
+    "modalities": [
+      "Anxiety",
+      "Couples",
+      "Family"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJf1NsMw9vcVMRVjP09F4-JZs"
+  },
+  {
     "name": "Interactive Counselling",
     "address": "10130 99 Ave Suite 180, Grande Prairie, AB T8V 2V4, Canada",
     "phone": "(780) 512-8462",
@@ -8999,6 +9447,27 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJcSgyWnuRkFMRLy1ZUaqs9uQ"
+  },
+  {
+    "name": "Interweave Counselling",
+    "address": "9557 76 Ave NW, Edmonton, AB T6C 0K1, Canada",
+    "phone": "(587) 874-7933",
+    "email": "interweavecounselling@gmail.com",
+    "website": "https://www.interweavecounselling.com/",
+    "modalities": [
+      "CBT",
+      "DBT",
+      "EMDR",
+      "ACT",
+      "Trauma",
+      "Anxiety",
+      "Depression",
+      "Couples",
+      "Grief",
+      "Addiction"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJ0-YRz4cZoFMRuenfCXdj0cg"
   },
   {
     "name": "Into The Heart Counselling",
@@ -9015,16 +9484,6 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJh0iBTtc_cVMRs2EeJ8jd41Y"
-  },
-  {
-    "name": "INTUITION Fascia & Flow Wellness",
-    "address": "5580 45 St Unit C6, Red Deer, AB T4N 1L1, Canada",
-    "phone": "(587) 877-3215",
-    "email": "",
-    "website": "https://www.intuitionwellness.ca/",
-    "modalities": [],
-    "acceptingStudents": false,
-    "placeId": "ChIJT5LpiLpVdFMRxxQF-Bfu3Tg"
   },
   {
     "name": "Inviting Conversations Counselling",
@@ -9081,25 +9540,13 @@
     "name": "Jamie Beaton Psychology",
     "address": "8520 Manning Ave Unit 226, Fort McMurray, AB T9H 5G2, Canada",
     "phone": "(780) 881-8865",
-    "email": "",
+    "email": "jamiebeatonpsychology@gmail.com",
     "website": "https://www.jamiebeatonpsychology.com/",
-    "modalities": [],
-    "acceptingStudents": false,
-    "placeId": "ChIJ0zI3XeYPsFMRjI6DzPwngSM"
-  },
-  {
-    "name": "Jamie Watson, Registered Psychologist",
-    "address": "1333 8 Street SW Ste 802, Calgary, AB T2R 1M6, Canada",
-    "phone": "(587) 917-4227",
-    "email": "user@domain.com",
-    "website": "http://www.watsonpsych.com/",
     "modalities": [
-      "Anxiety",
-      "Depression",
-      "Grief"
+      "Couples"
     ],
     "acceptingStudents": false,
-    "placeId": "ChIJjwznlVlvcVMRC9k71jgHZPc"
+    "placeId": "ChIJ0zI3XeYPsFMRjI6DzPwngSM"
   },
   {
     "name": "Janet Tink Counselling",
@@ -9130,16 +9577,6 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJVyrxbcSZcVMR7WRUGx55RoQ"
-  },
-  {
-    "name": "Jeanne L Williams Psychological Services",
-    "address": "11411 94 St NW, Edmonton, AB T5G 1H5, Canada",
-    "phone": "(780) 757-8880",
-    "email": "",
-    "website": "https://www.jeannewilliams.ca/",
-    "modalities": [],
-    "acceptingStudents": false,
-    "placeId": "ChIJE9yBFxEioFMRHx1m_aUqSPA"
   },
   {
     "name": "Jeff Whitehead MSW, RCSW, CMAT, CSAT",
@@ -9276,9 +9713,17 @@
     "name": "Jillian Martin Psychology",
     "address": "8324 Franklin Ave #3, Fort McMurray, AB T9K 2J1, Canada",
     "phone": "(780) 805-1218",
-    "email": "",
+    "email": "admin@ymmcollaboarativepeactice.com",
     "website": "http://www.ymmcollaborativepractice.com/",
-    "modalities": [],
+    "modalities": [
+      "Trauma",
+      "Anxiety",
+      "Depression",
+      "Couples",
+      "Family",
+      "Grief",
+      "ADHD"
+    ],
     "acceptingStudents": false,
     "placeId": "ChIJac3z44wPsFMRFbEp699FOYM"
   },
@@ -9446,6 +9891,21 @@
     "placeId": "ChIJVdfG4DaRkFMR0PRTLlTkMmw"
   },
   {
+    "name": "JS Wellness Counselling & Consulting Services",
+    "address": "5316 89 St NW, Edmonton, AB T6E 5P9, Canada",
+    "phone": "(780) 439-9484",
+    "email": "info@ndiscovered.com",
+    "website": "https://jswellness.ca/",
+    "modalities": [
+      "Trauma",
+      "Anxiety",
+      "Depression",
+      "Couples"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJneteNE8ZoFMRfCO8Pt2CWO0"
+  },
+  {
     "name": "Julia Sokulski Therapy",
     "address": "127 1 Ave, Cochrane, AB T4C 1A0, Canada",
     "phone": "(403) 972-0091",
@@ -9454,6 +9914,16 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJjVpBVoJBcVMRIfagAh1dJuQ"
+  },
+  {
+    "name": "Junction Point© Physical Therapy Grande Prairie",
+    "address": "9719 98 Ave #212, Grande Prairie, AB T8V 8K6, Canada",
+    "phone": "(780) 832-2804",
+    "email": "junctionpointphysicaltherapy@gmail.com",
+    "website": "https://junctionpointphysio.com/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJCYc6mUqRkFMRYeoJ9CN05_8"
   },
   {
     "name": "Juniper Naturopathic Clinic",
@@ -9472,6 +9942,16 @@
     "placeId": "ChIJgwmdIfoJsFMR_2pfrIyO9qc"
   },
   {
+    "name": "Just As You Are Counselling",
+    "address": "736 1 Ave NE, Calgary, AB T2E 0B8, Canada",
+    "phone": "(587) 209-0068",
+    "email": "user@domain.com",
+    "website": "http://www.justasyouarecounselling.com/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJI1ZaP39lcVMRdpHxYPlPDKQ"
+  },
+  {
     "name": "Just Be Counselling & Wellness",
     "address": "10033 80 Ave NW, Edmonton, AB T6E 1T4, Canada",
     "phone": "(825) 777-2343",
@@ -9488,6 +9968,16 @@
     "placeId": "ChIJrV6zx6gjoFMRTEEUQUiDzjw"
   },
   {
+    "name": "Just Psychology",
+    "address": "11012 Macleod Trl SE #620, Calgary, AB T2J 6A5, Canada",
+    "phone": "(587) 742-8611",
+    "email": "",
+    "website": "https://justpsych.ca/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJExecxsBxcVMRwVcHx1UYtr0"
+  },
+  {
     "name": "Just RELAX Massage Therapy",
     "address": "5303 50 Ave Unit 105, Lloydminster, SK S9V 0P9, Canada",
     "phone": "(306) 307-3732",
@@ -9496,6 +9986,18 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJXc89POmzCVMRkFLgQk3Ht7Y"
+  },
+  {
+    "name": "Kairos Counseling Services",
+    "address": "5704 72 St NW, Edmonton, AB T6B 3J4, Canada",
+    "phone": "(587) 760-0584",
+    "email": "user@domain.com",
+    "website": "http://www.kairoscounselingservices.org/",
+    "modalities": [
+      "Couples"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJIQcsiikfoFMRQPVoD-jWcmk"
   },
   {
     "name": "KALM Psychology",
@@ -9544,10 +10046,30 @@
     "placeId": "ChIJy6Mdggv5n1MRSqY2DD5Ny94"
   },
   {
+    "name": "Kate massage therapist",
+    "address": "268 7a Ave S, Lethbridge, AB T1J 1N4, Canada",
+    "phone": "(914) 312-4445",
+    "email": "",
+    "website": "",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJjbs1jsOHblMRiO5H-IxjZzI"
+  },
+  {
+    "name": "Kate massage therapist",
+    "address": "1969 Upland Dr SE, Medicine Hat, AB T1A 7K3, Canada",
+    "phone": "(914) 312-4445",
+    "email": "",
+    "website": "",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJ93tYCWMtE1MR1MClbbPX0jI"
+  },
+  {
     "name": "Kathryn King Naturopathic Doctor",
     "address": "3907 51 Ave, Lloydminster, AB T9V 2Z2, Canada",
     "phone": "(306) 830-8982",
-    "email": "",
+    "email": "info@kathrynkingnd.com",
     "website": "http://www.kathrynkingnd.com/",
     "modalities": [],
     "acceptingStudents": false,
@@ -9579,6 +10101,19 @@
     "placeId": "ChIJ76p0TDOYcVMRjNKxyoLKWw8"
   },
   {
+    "name": "Katrina Shaw, Registered Psychologist & Mediator",
+    "address": "333 24 Ave SW #210, Calgary, AB T2S 3E6, Canada",
+    "phone": "(587) 801-4306",
+    "email": "katrina@shawpsychology.ca",
+    "website": "http://www.katrinashaw.ca/",
+    "modalities": [
+      "Couples",
+      "Grief"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJq6r6n_lvcVMRQFbnDw42iNI"
+  },
+  {
     "name": "Kayla Huszar Counselling Services",
     "address": "4810 50th Ave Ste 108, Leduc, AB T9E 1A1, Canada",
     "phone": "(236) 300-2780",
@@ -9600,16 +10135,6 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJL3SiI2xfcVMR3RO39lbbWuA"
-  },
-  {
-    "name": "Keen Joanne Chart'd Psychologist",
-    "address": "4705 48 Ave, Red Deer, AB T4N 6J4, Canada",
-    "phone": "(403) 309-3094",
-    "email": "",
-    "website": "",
-    "modalities": [],
-    "acceptingStudents": false,
-    "placeId": "ChIJKdgnyihUdFMRE8dgRW9uUkw"
   },
   {
     "name": "Kells Psychology",
@@ -9650,6 +10175,16 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJjZM8Ss2HblMRCHDxcjLY6q8"
+  },
+  {
+    "name": "Kelsey Hanson MSW RSW",
+    "address": "4808 50 St, Red Deer, AB T4N 1T9, Canada",
+    "phone": "(403) 597-5464",
+    "email": "",
+    "website": "http://www.kelseyhanson.ca/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJOxdRX2dUdFMRjRk7P7-n_Is"
   },
   {
     "name": "Key Connections Consulting Inc",
@@ -9786,14 +10321,8 @@
     "email": "user@domain.com",
     "website": "http://www.kindredroots.ca/",
     "modalities": [
-      "EMDR",
-      "Trauma",
-      "Anxiety",
-      "Depression",
       "Couples",
       "Family",
-      "Grief",
-      "Addiction",
       "ADHD",
       "Assessment"
     ],
@@ -9960,8 +10489,7 @@
     "email": "user@domain.com",
     "website": "https://www.launchpointwellness.com/",
     "modalities": [
-      "Couples",
-      "Assessment"
+      "Couples"
     ],
     "acceptingStudents": false,
     "placeId": "ChIJCZKTFsctE1MRSsRiGbTydGM"
@@ -10037,16 +10565,6 @@
     "placeId": "ChIJGWyzsPpVdFMR5-CEVnQhLH4"
   },
   {
-    "name": "Lawrence Counselling Services",
-    "address": "10418 99 Ave, Grande Prairie, AB T8V 0S3, Canada",
-    "phone": "(780) 539-5626",
-    "email": "",
-    "website": "",
-    "modalities": [],
-    "acceptingStudents": false,
-    "placeId": "ChIJO6suuEqRkFMRhBZf3AgQnzw"
-  },
-  {
     "name": "Leading Edge Physiotherapy",
     "address": "145 Carleton Dr, St. Albert, AB T8N 3S6, Canada",
     "phone": "(780) 458-2669",
@@ -10055,6 +10573,26 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJRXh6p7EloFMR6KOjluRe8G0"
+  },
+  {
+    "name": "Leading Edge Physiotherapy",
+    "address": "140 Athabascan Ave #2, Sherwood Park, AB T8A 4E3, Canada",
+    "phone": "(780) 540-1110",
+    "email": "",
+    "website": "https://leadingedgephysio.com/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJP8Gr3vcXoFMRO0eD-s-TUVs"
+  },
+  {
+    "name": "Leading Edge Physiotherapy",
+    "address": "20 Westwind Dr #221, Spruce Grove, AB T7X 0V6, Canada",
+    "phone": "(780) 948-8118",
+    "email": "",
+    "website": "http://leadingedgephysio.com/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJtxq_7lKPn1MR6wX_-kl-SJA"
   },
   {
     "name": "Leading Edge Physiotherapy",
@@ -10198,10 +10736,7 @@
     "phone": "(587) 291-8558",
     "email": "user@domain.com",
     "website": "https://www.legacyhealth.ca/",
-    "modalities": [
-      "Anxiety",
-      "Depression"
-    ],
+    "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJA1vacDEaxEURdy1xP2dVMMs"
   },
@@ -10344,19 +10879,8 @@
     "email": "intake@lethbridgetherapycentre.com",
     "website": "http://lethbridgetherapycentre.com/",
     "modalities": [
-      "CBT",
-      "EMDR",
-      "ACT",
-      "Mindfulness",
-      "Trauma",
       "Anxiety",
-      "Depression",
-      "Couples",
-      "Family",
-      "Play Therapy",
-      "Child",
-      "Addiction",
-      "ADHD"
+      "Depression"
     ],
     "acceptingStudents": false,
     "placeId": "ChIJKWbEUrCHblMRWMe9qP0L-xU"
@@ -10729,25 +11253,6 @@
     "placeId": "ChIJBfcn4fxfcVMRMigneVm5e_c"
   },
   {
-    "name": "Little Oaks Psychology",
-    "address": "5555 Calgary Trl NW #1405, Edmonton, AB T6H 5P9, Canada",
-    "phone": "(780) 405-4209",
-    "email": "user@domain.com",
-    "website": "http://www.littleoaks.ca/",
-    "modalities": [
-      "CBT",
-      "Mindfulness",
-      "Trauma",
-      "Anxiety",
-      "Depression",
-      "Family",
-      "ADHD",
-      "Assessment"
-    ],
-    "acceptingStudents": false,
-    "placeId": "ChIJ8_MrgjsioFMRMMt869ZSRc8"
-  },
-  {
     "name": "Little Tree Psychology",
     "address": "2899 Broadmoor Blvd #220, Sherwood Park, AB T8H 2K8, Canada",
     "phone": "(587) 456-0756",
@@ -10879,6 +11384,16 @@
     "placeId": "ChIJXUwxusZvcVMRlGmX7nCETsQ"
   },
   {
+    "name": "Lloyd Women's Clinic",
+    "address": "1812 50 Ave Unit 7, Lloydminster, AB T9V 2W7, Canada",
+    "phone": "(780) 875-8755",
+    "email": "",
+    "website": "http://www.lloydwomensclinic.com/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJUZA8poKyCVMRM0HLUeTuWNU"
+  },
+  {
     "name": "Lloydminster - Alberta Supports Centre",
     "address": "5124 50 St, Lloydminster, AB T9V 0M3, Canada",
     "phone": "(780) 871-6480",
@@ -10889,6 +11404,36 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJHxWVVRCzCVMRFLe1wno5fM8"
+  },
+  {
+    "name": "Lloydminster Chiropractic Centre Midwest Physiotherapy",
+    "address": "5013 48 St, Lloydminster, AB T9V 0H7, Canada",
+    "phone": "(780) 875-3389",
+    "email": "",
+    "website": "http://www.lloydminsterchiropracticcentre.com/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJz_uR1JCyCVMRUQdrXUARrtk"
+  },
+  {
+    "name": "Lloydminster Clinic",
+    "address": "5120 46 St, Lloydminster, AB T9V 0C6, Canada",
+    "phone": "(780) 875-2221",
+    "email": "",
+    "website": "https://lloydpcn.ca/clinics/lloydminster-clinic/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJt-M1XZCyCVMRq5FVEp6z7Os"
+  },
+  {
+    "name": "Lloydminster Hospital (Saskatchewan)",
+    "address": "3820 43 Ave, Lloydminster, SK S9V 1Y5, Canada",
+    "phone": "(306) 820-6000",
+    "email": "feedback@myhealth.alberta.ca",
+    "website": "https://www.albertahealthservices.ca/findhealth/facility.aspx?id=1000201",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJBWntJKCyCVMRkGbiMFGElGk"
   },
   {
     "name": "Lloydminster Primary Care Network",
@@ -11072,7 +11617,14 @@
     "phone": "(780) 902-1700",
     "email": "",
     "website": "https://www.luminacounselling.com/",
-    "modalities": [],
+    "modalities": [
+      "CBT",
+      "Anxiety",
+      "Depression",
+      "Couples",
+      "Family",
+      "Addiction"
+    ],
     "acceptingStudents": false,
     "placeId": "ChIJ05WRLHYmoFMRYm3atoor53Q"
   },
@@ -11190,6 +11742,16 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJi0wVJgAloFMRb4TnHHQVqY4"
+  },
+  {
+    "name": "Mamunia Massage & Wellness",
+    "address": "1310 Kingsway Ave SE Bay 124, Medicine Hat, AB T1A 2Y4, Canada",
+    "phone": "(403) 472-1997",
+    "email": "hayleydavis.rmt@gmail.com",
+    "website": "https://mamuniamassage.noterro.com/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJcQxZ9XwtE1MR4ePeLhsWZSk"
   },
   {
     "name": "MANLUTAC-DABU CLINIC (Massage Therapy)",
@@ -11376,6 +11938,18 @@
     "placeId": "ChIJa43qhmI_cVMRXNLVPTH4qNc"
   },
   {
+    "name": "Massage Addict Airdrie Kingsview Market",
+    "address": "26 Market Blvd SE Unit 120, Airdrie, AB T4A 0R8, Canada",
+    "phone": "(587) 254-8822",
+    "email": "kingsviewmarket@massageaddict.ca",
+    "website": "https://www.massageaddict.ca/airdriekingsviewmarket/?utm_source=google_business_profile&utm_medium=organic",
+    "modalities": [
+      "Anxiety"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJRzwnOrhfcVMR3Wi0hpf5KTI"
+  },
+  {
     "name": "Massage Addict Cochrane",
     "address": "31 Bow Street Common Unit #15 T4C 2N1, Unit #15, Cochrane, AB T4C 2N1, Canada",
     "phone": "(403) 840-2841",
@@ -11403,7 +11977,7 @@
     "name": "Massage Therapy Collective - Grande Prairie, AB",
     "address": "8649 112 St, Grande Prairie, AB T8V 6A4, Canada",
     "phone": "(780) 380-0022",
-    "email": "",
+    "email": "admin@massagecollective.ca",
     "website": "http://www.massagecollective.ca/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=12258800712810135725",
     "modalities": [],
     "acceptingStudents": false,
@@ -11418,26 +11992,6 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJT07UqYMPsFMRiUUbV6SiMAM"
-  },
-  {
-    "name": "MassageWorks Cochrane and Chiropractic Care",
-    "address": "205 1 St E Unit 7, Cochrane, AB T4C 1X6, Canada",
-    "phone": "(403) 981-0931",
-    "email": "",
-    "website": "http://www.massageworkscochrane.com/",
-    "modalities": [],
-    "acceptingStudents": false,
-    "placeId": "ChIJESKDLiRBcVMRI5xartjQ6Yo"
-  },
-  {
-    "name": "Massimo Linda",
-    "address": "10240 124 St #213, Edmonton, AB T5N 1R2, Canada",
-    "phone": "(780) 448-3642",
-    "email": "",
-    "website": "https://lindamassimo.ca/",
-    "modalities": [],
-    "acceptingStudents": false,
-    "placeId": "ChIJMZhWPisioFMRT2k4jwyT0xw"
   },
   {
     "name": "Master's Counselling",
@@ -11587,14 +12141,14 @@
     "placeId": "ChIJJbIB9lksE1MRW9ULaG10YH4"
   },
   {
-    "name": "Medicine Tree Healing Arts Centre Inc",
-    "address": "1102 9 Ave S, Lethbridge, AB T1J 1V1, Canada",
-    "phone": "(403) 329-3290",
-    "email": "user@domain.com",
-    "website": "https://www.tmtree.ca/",
+    "name": "Medika North Occupational Health Services",
+    "address": "110 Boreal Avenue #1, Fort McMurray, AB T9K 0T4, Canada",
+    "phone": "(780) 715-4424",
+    "email": "",
+    "website": "http://www.medikanorth.com/",
     "modalities": [],
     "acceptingStudents": false,
-    "placeId": "ChIJb3j03DOGblMR7S5ifgHnjs0"
+    "placeId": "ChIJm8tVw7QOsFMRbgMiDbvR5LY"
   },
   {
     "name": "Melanie Vassell, MC, Registered Psychologist",
@@ -11967,6 +12521,16 @@
     "placeId": "ChIJBVWan5UnoFMRq7yGsvjw0dQ"
   },
   {
+    "name": "mindful peak therapy",
+    "address": "33 Mckenzie Cres #206, Red Deer County, AB T4S 2H4, Canada",
+    "phone": "(587) 295-4075",
+    "email": "alexboyko@mindfulpeaktherapy.com",
+    "website": "https://www.mindfulpeaktherapy.com/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJUc9ieNdRdFMRVwiiXP1PwlE"
+  },
+  {
     "name": "Mindful Solutions Counselling",
     "address": "210 Chinook Dr, Cochrane, AB T4C 1E4, Canada",
     "phone": "(368) 863-3584",
@@ -12051,6 +12615,22 @@
     "placeId": "ChIJ3SmgE7_UbFMR6tm-cKXYnbk"
   },
   {
+    "name": "Mindset Haven Counselling",
+    "address": "1407 10 St SW, Calgary, AB T2R 0S6, Canada",
+    "phone": "(403) 888-4970",
+    "email": "krystle.smith@mindsethaven.ca",
+    "website": "https://www.mindsethaven.ca/",
+    "modalities": [
+      "Mindfulness",
+      "Trauma",
+      "Anxiety",
+      "Play Therapy",
+      "Grief"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJNcwZZ3gWWgARk_ZI13tgqec"
+  },
+  {
     "name": "Mint Therapeutics",
     "address": "420 King St #10, Spruce Grove, AB T7X 2C6, Canada",
     "phone": "(780) 946-7984",
@@ -12059,6 +12639,16 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJSV3kUPOPn1MRKyq99n6PhmA"
+  },
+  {
+    "name": "Minto Councilling Centre",
+    "address": "Cochrane, ON P0L 1C0, Canada",
+    "phone": "(705) 272-4245",
+    "email": "",
+    "website": "",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJV33CD9srPU0RkFRG9hC8SGk"
   },
   {
     "name": "Minty's Massage & Wellness",
@@ -12187,6 +12777,16 @@
     "placeId": "ChIJ6VnFgXMioFMRzljBhOdlrPw"
   },
   {
+    "name": "Monarch Psychology",
+    "address": "1725 10 Ave SW Unit 303, Calgary, AB T3C 0K1, Canada",
+    "phone": "(403) 454-4988",
+    "email": "",
+    "website": "https://monarchpsychology.com/?utm_source=google&utm_medium=gbp&utm_campaign=website_link",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJnTY-_KNvcVMR_FjgWbCzA3o"
+  },
+  {
     "name": "Moon Wellness & Healing",
     "address": "9804 100 Ave. #224, Grande Prairie, AB T8V 0T8, Canada",
     "phone": "(250) 467-3325",
@@ -12215,6 +12815,26 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJdaobZ8mHblMRFEe2cJMU2Mw"
+  },
+  {
+    "name": "Mountain Health Team",
+    "address": "403 MacKenzie Way SW #1121, Airdrie, AB T4B 3V7, Canada",
+    "phone": "(403) 945-8265",
+    "email": "",
+    "website": "http://www.mountainhealthteam.com/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJ1RmYymhfcVMR5_GUL7PCPjE"
+  },
+  {
+    "name": "Mountain Plains Community Services Society Of The North",
+    "address": "9804 100 Ave., Grande Prairie, AB T8V 0T8, Canada",
+    "phone": "(780) 532-7170",
+    "email": "sec@mpcssn.com",
+    "website": "http://mpcssn.com/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJvRcDO0yRkFMR2Gdj1dZ4P14"
   },
   {
     "name": "Mountain Ridge Health Centre",
@@ -12368,16 +12988,6 @@
     "placeId": "ChIJq_V0diItE1MR0QixWpmSKgY"
   },
   {
-    "name": "Namaste Wellness and Day Spa Inc.",
-    "address": "2016 Sherwood Dr #216, Sherwood Park, AB T8A 3X3, Canada",
-    "phone": "(780) 467-9809",
-    "email": "info@namastespa.ca",
-    "website": "http://namastespa.ca/",
-    "modalities": [],
-    "acceptingStudents": false,
-    "placeId": "ChIJtxmTWbgXoFMR1SyFMm3QMAY"
-  },
-  {
     "name": "Nancy Ann Fowler & Associates",
     "address": "110 2 Ave W, Cochrane, AB T4C 1B5, Canada",
     "phone": "(403) 932-4660",
@@ -12421,6 +13031,16 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJjZ5LqalRdFMRCnw2Sxle2OY"
+  },
+  {
+    "name": "Native Counselling Services of Alberta",
+    "address": "15548 Stony Plain Rd, Edmonton, AB T5P 3Z2, Canada",
+    "phone": "(780) 451-4002",
+    "email": "info@ncsa.ca",
+    "website": "http://www.ncsa.ca/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJQ_XRGtAjoFMRgPisjYw2GxI"
   },
   {
     "name": "Native Counselling Services Of Alberta",
@@ -12473,6 +13093,16 @@
     "placeId": "ChIJQV0oJp1AcVMRbc8oJFdMFLg"
   },
   {
+    "name": "Natural Injector Aesthetics Limited",
+    "address": "5704 44 St Unit 217, Lloydminster, AB T9V 2A1, Canada",
+    "phone": "(306) 230-3114",
+    "email": "",
+    "website": "https://www.naturalinjector.ca/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJuROC24qzCVMRWcWuc4pwHBs"
+  },
+  {
     "name": "Nature's Clarity Skincare",
     "address": "1120 1 Ave S, Lethbridge, AB T1J 0E4, Canada",
     "phone": "(587) 425-6620",
@@ -12501,6 +13131,44 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJAaYl7Z8XoFMROUWrvYG1W80"
+  },
+  {
+    "name": "Nest Psychological Services",
+    "address": "Grande Prairie, AB T8V 0T7, Canada",
+    "phone": "(780) 876-4220",
+    "email": "",
+    "website": "",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJS_31XR6RkFMR7koMrqD_VEo"
+  },
+  {
+    "name": "Nest Psychology",
+    "address": "Medical & Professional Building, 8 Varsity Estates Cir NW #300, Calgary, AB T3A 2Z3, Canada",
+    "phone": "(403) 771-8458",
+    "email": "user@domain.com",
+    "website": "http://www.nestpsychology.ca/",
+    "modalities": [
+      "CBT",
+      "DBT",
+      "Mindfulness",
+      "Trauma",
+      "Anxiety",
+      "Depression",
+      "Grief"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJwXR0PpxvcVMR2cF0SdiRfW8"
+  },
+  {
+    "name": "Neuromed Clinic",
+    "address": "2532 Ellwood Dr SW, Edmonton, AB T6X 0A9, Canada",
+    "phone": "(587) 860-1880",
+    "email": "",
+    "website": "https://www.neuromedclinic.com/?utm_source=google&utm_medium=gmb&utm_campaign=google_business_profile",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJ95MH4TEjoFMRbadgAtE7kj4"
   },
   {
     "name": "NeverMind Counselling",
@@ -12647,6 +13315,26 @@
     "placeId": "ChIJs9KP0Xw8oFMRAlhDG-B_gBk"
   },
   {
+    "name": "NewVista Psychology",
+    "address": "Suite # 400 7015 Macleod Trail Southwest, 10101 Southport Rd Southwest, Calgary, AB T2H 2K6, Canada",
+    "phone": "(587) 200-3248",
+    "email": "info@newvistapsychology.com",
+    "website": "http://www.newvistapsychology.com/",
+    "modalities": [
+      "CBT",
+      "DBT",
+      "EMDR",
+      "Trauma",
+      "Anxiety",
+      "Depression",
+      "Couples",
+      "Family",
+      "Grief"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJoabLF35xcVMRPHUb-NgXLiM"
+  },
+  {
     "name": "Nexus Psychology",
     "address": "150 Chippewa Rd #168, Sherwood Park, AB T8A 6A2, Canada",
     "phone": "(780) 221-5721",
@@ -12714,6 +13402,16 @@
     "placeId": "ChIJ03i5-TdVdFMR6aT1g59Xpd8"
   },
   {
+    "name": "Northland Psychology",
+    "address": "1117 1 St SW, Calgary, AB T2R 0T9, Canada",
+    "phone": "(587) 412-2715",
+    "email": "",
+    "website": "https://www.northlandpsychology.ca/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=7760448188405679038",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJn6RTYM1xcVMRoR2F30NWACw"
+  },
+  {
     "name": "Northside Psychology",
     "address": "14065 Victoria Trail NW #205, Edmonton, AB T5Y 2B6, Canada",
     "phone": "(825) 556-3633",
@@ -12722,6 +13420,25 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJ34mX8B09oFMRvRqcabhdeVA"
+  },
+  {
+    "name": "Northwest Psychology",
+    "address": "1716 16 Ave NW Ste 320, Calgary, AB T3M 0L7, Canada",
+    "phone": "(403) 444-3394",
+    "email": "",
+    "website": "https://www.northwestpsychology.ca/",
+    "modalities": [
+      "CBT",
+      "EMDR",
+      "EFT",
+      "Anxiety",
+      "Depression",
+      "Couples",
+      "Family",
+      "Play Therapy"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJ02AZzPFvcVMR5G8d6TB5zX0"
   },
   {
     "name": "Northwest Wellness Centre",
@@ -12794,18 +13511,6 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJaWpaQvstm1MRLNJ2YPSuqi0"
-  },
-  {
-    "name": "Nurture Psychology",
-    "address": "1716 16 Ave NW Ste 420, Calgary, AB T2M 0L7, Canada",
-    "phone": "(403) 815-0271",
-    "email": "",
-    "website": "https://nurturepsychology.ca/",
-    "modalities": [
-      "Couples"
-    ],
-    "acceptingStudents": false,
-    "placeId": "ChIJT97DOpdvcVMRRKnypZxwwFw"
   },
   {
     "name": "Nurtured Minds Retreat- Wizard Lake",
@@ -13077,6 +13782,16 @@
     "placeId": "ChIJS03bU4aXcVMRmu80Gevzwfs"
   },
   {
+    "name": "Okotoks Physical Therapy Ltd",
+    "address": "27 McRae St Bay E, Okotoks, AB T1S 1B4, Canada",
+    "phone": "(403) 938-2644",
+    "email": "edward@procolorprints.com",
+    "website": "https://www.okotoksphysicaltherapy.com/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJYy4VDcWZcVMRcA6fiavQdys"
+  },
+  {
     "name": "Okotoks Psychology & Counseling",
     "address": "GD Stn Main, 11 Elizabeth St, Okotoks, AB T1S 1A3, Canada",
     "phone": "(403) 938-6847",
@@ -13161,9 +13876,7 @@
     "phone": "(587) 415-0482",
     "email": "",
     "website": "http://onyxassessments.ca/",
-    "modalities": [
-      "Assessment"
-    ],
+    "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJRZSiQKY9oFMR3nCfR9S2cy8"
   },
@@ -13269,6 +13982,16 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJj-NMTKFfcVMRL_9ADEa--do"
+  },
+  {
+    "name": "Ordinary Therapy",
+    "address": "CENTRE 101, 7815 101 Ave NW, Edmonton, AB T6A 0K1, Canada",
+    "phone": "",
+    "email": "",
+    "website": "https://ordinaryliving.ca/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJ4zKALvgjoFMRB8JPCKxs8AE"
   },
   {
     "name": "Our Collective Journey (OCJ)",
@@ -13421,12 +14144,7 @@
     "phone": "(780) 788-5067",
     "email": "",
     "website": "http://pathways-consulting.ca/",
-    "modalities": [
-      "Trauma",
-      "Anxiety",
-      "Depression",
-      "Addiction"
-    ],
+    "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJk_uD3LQIsFMRqflhmOn5owQ"
   },
@@ -13481,6 +14199,25 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJ5dGp85RfcVMRgRTV0sKkVDM"
+  },
+  {
+    "name": "Peace of Mind Psychology",
+    "address": "Office:103, 3450 19 St SW, Calgary, AB T2T 6N9, Canada",
+    "phone": "(403) 467-1148",
+    "email": "",
+    "website": "http://www.peaceofmindpsychology.ca/",
+    "modalities": [
+      "CBT",
+      "Mindfulness",
+      "Trauma",
+      "Anxiety",
+      "Depression",
+      "Couples",
+      "Grief",
+      "Addiction"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJtXqDictpcVMRtW4KUu9zhxo"
   },
   {
     "name": "Peace Psychological Services",
@@ -13566,11 +14303,7 @@
     "email": "user@domain.com",
     "website": "https://www.perceptionpsychotherapy.ca/",
     "modalities": [
-      "CBT",
-      "EMDR",
       "Trauma",
-      "Anxiety",
-      "Depression",
       "Couples"
     ],
     "acceptingStudents": false,
@@ -13587,6 +14320,16 @@
     "placeId": "ChIJQ_yT0-nzn1MRyhOPZzmYZY8"
   },
   {
+    "name": "Persons With Developmental",
+    "address": "4911 47 St, Camrose, AB T4V 1J9, Canada",
+    "phone": "(780) 679-5059",
+    "email": "",
+    "website": "",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJW27eOcO7ClMRew1pCdH2foE"
+  },
+  {
     "name": "Pfeifer Lucille Counselling & Consulting Services",
     "address": "4802 50 Ave, Camrose, AB T4V 4L5, Canada",
     "phone": "(780) 672-6961",
@@ -13595,6 +14338,16 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJQW9ebcO7ClMR9WziAS_KAss"
+  },
+  {
+    "name": "PhilCanTherapeutic",
+    "address": "3806 65 Ave, Lloydminster, AB T9V 2W6, Canada",
+    "phone": "(306) 307-2530",
+    "email": "",
+    "website": "",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJlV0LuO6zCVMRrzXqKmAchIk"
   },
   {
     "name": "Phoenix Rising Massage Therapy Ltd.",
@@ -13667,27 +14420,6 @@
     "placeId": "ChIJX_9tUlaXcVMRk2eVcbosQnM"
   },
   {
-    "name": "Pillar of Support Psychology",
-    "address": "134 Pembina Rd #316, Sherwood Park, AB T8H 0M2, Canada",
-    "phone": "(587) 871-5628",
-    "email": "user@domain.com",
-    "website": "https://www.pillarofsupportpsychology.com/",
-    "modalities": [
-      "CBT",
-      "EMDR",
-      "ACT",
-      "Mindfulness",
-      "Trauma",
-      "Anxiety",
-      "Depression",
-      "Grief",
-      "Addiction",
-      "ADHD"
-    ],
-    "acceptingStudents": false,
-    "placeId": "ChIJNRn_Sk49oFMRUcnstfai93A"
-  },
-  {
     "name": "Pine Cone Health",
     "address": "6720 104 Street NW, Edmonton, AB T6H 2L4, Canada",
     "phone": "(587) 855-5598",
@@ -13724,14 +14456,17 @@
     "placeId": "ChIJfw7UUJAXoFMRaoCsuLoC6h4"
   },
   {
-    "name": "Pinnacle Chiropractic & Massage",
-    "address": "355 Loutit Rd #117, Fort McMurray, AB T9K 0Z3, Canada",
-    "phone": "(780) 750-8548",
-    "email": "info@pinnaclechiro.ca",
-    "website": "http://www.pinnaclechiropractic.ca/",
-    "modalities": [],
+    "name": "Pineapple Therapy",
+    "address": "10004 79 Ave NW #100, Edmonton, AB T6E 1R5, Canada",
+    "phone": "(587) 735-2303",
+    "email": "",
+    "website": "https://www.pineappletherapy.ca/",
+    "modalities": [
+      "Anxiety",
+      "Depression"
+    ],
     "acceptingStudents": false,
-    "placeId": "ChIJiZ5dwD4JsFMRUY_B6l-NdDQ"
+    "placeId": "ChIJuVRxEqq_tUIRyPJkBw242N0"
   },
   {
     "name": "Playful Expressions Child Counselling",
@@ -13832,7 +14567,9 @@
     "phone": "(780) 757-5535",
     "email": "",
     "website": "https://prairieowlpsychology.ca/",
-    "modalities": [],
+    "modalities": [
+      "Couples"
+    ],
     "acceptingStudents": false,
     "placeId": "ChIJfXvbNokioFMRuNKEi--4_SM"
   },
@@ -13862,6 +14599,20 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJcy5JjPHoKgARcis2_z9enSY"
+  },
+  {
+    "name": "Prairieview Psychology",
+    "address": "1000 7 Ave SW Ste 710, Calgary, AB T2P 5L5, Canada",
+    "phone": "(587) 585-1721",
+    "email": "user@domain.com",
+    "website": "https://www.prairieviewpsychology.ca/",
+    "modalities": [
+      "Anxiety",
+      "Depression",
+      "Addiction"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJVVVFFOpvcVMR5RdSCY7WpoA"
   },
   {
     "name": "Present Mind Wellness",
@@ -13908,14 +14659,14 @@
     "placeId": "ChIJ_9Wsl_e7ClMRitlkXomu7wU"
   },
   {
-    "name": "ProActive Health",
-    "address": "312 5th Ave Bay 25, Cochrane, AB T4C 2E3, Canada",
-    "phone": "(403) 851-8821",
-    "email": "",
-    "website": "https://proactivehealthcochrane.com/",
+    "name": "Professional Building",
+    "address": "5015 50 Ave, Camrose, AB T4V 1R2, Canada",
+    "phone": "",
+    "email": "feedback@myhealth.alberta.ca",
+    "website": "https://www.albertahealthservices.ca/findhealth/facility.aspx?id=1023751",
     "modalities": [],
     "acceptingStudents": false,
-    "placeId": "ChIJfWxXlnw_cVMRbWH4mLgeXV0"
+    "placeId": "ChIJnatJTsS7ClMRKyVcLvtEJE4"
   },
   {
     "name": "Progressive Canine Rehab (located inside Progressive Physiotherapy & Wellness)",
@@ -14015,6 +14766,18 @@
     "placeId": "ChIJ88jAQzoloFMRUvAcWlTbaPc"
   },
   {
+    "name": "Psychologists' Association Of Alberta",
+    "address": "1259 91 St SW #103, Edmonton, AB T6X 1E9, Canada",
+    "phone": "(780) 424-0294",
+    "email": "paa@paa-ab.ca",
+    "website": "https://www.paa-ab.ca/",
+    "modalities": [
+      "Trauma"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJv7bFyZ8eoFMRLgpBonXgzcY"
+  },
+  {
     "name": "Psychology & DBT Centre Inc",
     "address": "4808 Ross St #104-16, Red Deer, AB T4N 1X5, Canada",
     "phone": "(587) 801-1696",
@@ -14043,12 +14806,33 @@
     "modalities": [
       "Trauma",
       "Anxiety",
+      "Depression",
       "Couples",
       "Grief",
       "ADHD"
     ],
     "acceptingStudents": false,
     "placeId": "ChIJZ4poJfwXoFMRnQUyKpJxiC4"
+  },
+  {
+    "name": "Psychology Plus",
+    "address": "10333 Southport Rd SW, Calgary, AB T2W 3M5, Canada",
+    "phone": "(403) 258-3734",
+    "email": "",
+    "website": "https://psychologyplus.ca/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJMZdE7DBxcVMRhAFs1iBabjk"
+  },
+  {
+    "name": "Psychotherapy for You",
+    "address": "4279 Simcoe St, Niagara Falls, ON L2E 1T5, Canada",
+    "phone": "(289) 205-3505",
+    "email": "",
+    "website": "https://www.psychotherapyforyou.ca/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJEzwommVD04kR1T_s7O2ejWU"
   },
   {
     "name": "Psychsmith",
@@ -14164,6 +14948,26 @@
     "placeId": "ChIJtZe1jZSzCVMRU2pY2Q2Coa4"
   },
   {
+    "name": "R.E.A.C.H. Therapy & Consultation Service inc.",
+    "address": "4606B 99 St NW, Edmonton, AB T6E 5H5, Canada",
+    "phone": "(587) 987-3225",
+    "email": "",
+    "website": "https://bunkolaojelade.tribesites.com/",
+    "modalities": [
+      "CBT",
+      "DBT",
+      "EFT",
+      "Mindfulness",
+      "Anxiety",
+      "Depression",
+      "Play Therapy",
+      "Grief",
+      "ADHD"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJU42iWp7SBKARxp2jJcUCl4M"
+  },
+  {
     "name": "Randi Gabruck Psychological Services",
     "address": "4918 51 Ave, Leduc, AB T9E 7K6, Canada",
     "phone": "(780) 298-8874",
@@ -14175,6 +14979,16 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJmVYJPipHoFMR2y0ej6CN5aU"
+  },
+  {
+    "name": "Rapha Specialist Clinic",
+    "address": "2920 Kingsview Blvd SE #3145, Airdrie, AB T4A 0A9, Canada",
+    "phone": "(403) 960-0600",
+    "email": "user@domain.com",
+    "website": "https://www.raphaspecialistclinic.ca/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJZ0CxSwBfcVMRc4Bd_MhtQus"
   },
   {
     "name": "RAVENCROPHT TRANCE-FORMATIONS",
@@ -14280,16 +15094,6 @@
     "placeId": "ChIJD5zgHut1j1QRUgq9grW_h_o"
   },
   {
-    "name": "Recovery College - Grande Prairie",
-    "address": "10013 110 Ave, Grande Prairie, AB T8V 3J1, Canada",
-    "phone": "(780) 533-5524",
-    "email": "",
-    "website": "http://recoverycollegegrandeprairie.ca/",
-    "modalities": [],
-    "acceptingStudents": false,
-    "placeId": "ChIJNVT3sduRkFMRpIPa8nkbmEc"
-  },
-  {
     "name": "Recovery Lab - Mind, Body, Stretch, Massage",
     "address": "2827 30 Ave #1229, Red Deer, AB T4R 2P3, Canada",
     "phone": "(587) 819-5629",
@@ -14380,19 +15184,6 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJ3RJ8s2GzCVMRKTfhWoWdB2Y"
-  },
-  {
-    "name": "Refine Psychological",
-    "address": "10417 Saskatchewan Dr NW, Edmonton, AB T6E 4R8, Canada",
-    "phone": "",
-    "email": "info@refinepsychological.com",
-    "website": "https://refinepsychological.com/",
-    "modalities": [
-      "Couples",
-      "Family"
-    ],
-    "acceptingStudents": false,
-    "placeId": "ChIJ_-CtHx9CH4wRl8eqrJmEZUE"
   },
   {
     "name": "Refined Health & Wellness",
@@ -14640,11 +15431,9 @@
     "name": "Relationship Counselling by Joyce Schafers",
     "address": "200 Carnegie Dr Ste 101H, St. Albert, AB T8N 1H6, Canada",
     "phone": "(780) 264-0337",
-    "email": "support@joyce-schafers.com",
+    "email": "",
     "website": "https://www.joyce-schafers.com/",
-    "modalities": [
-      "Couples"
-    ],
+    "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJLSOD6HUmoFMRI9rhX6SvPic"
   },
@@ -14735,16 +15524,6 @@
     "placeId": "ChIJuydZGq9VdFMRstkd83Mz3AM"
   },
   {
-    "name": "Reset & Balance Massage",
-    "address": "10126 120 Ave Unit 104, Grande Prairie, AB T8V 8H9, Canada",
-    "phone": "(587) 343-6987",
-    "email": "Resetbalancemassage@gmail.com",
-    "website": "https://www.resetandbalancemassagestudio.com/",
-    "modalities": [],
-    "acceptingStudents": false,
-    "placeId": "ChIJbfzG8V-XkFMRg1v7jh_PQJw"
-  },
-  {
     "name": "Residents in Recovery Society",
     "address": "4804 50 Ave, Lloydminster, AB T9V 0W5, Canada",
     "phone": "(877) 201-3955",
@@ -14755,20 +15534,6 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJY2qWn3uzCVMR4jsxOU0FkFs"
-  },
-  {
-    "name": "Resilience Counselling and Consulting",
-    "address": "Altius Centre, 500 4 Ave SW Ste 2500, Calgary, AB T2P 2V6, Canada",
-    "phone": "(403) 826-2685",
-    "email": "user@domain.com",
-    "website": "https://www.resilience-now.com/",
-    "modalities": [
-      "EMDR",
-      "Trauma",
-      "Anxiety"
-    ],
-    "acceptingStudents": false,
-    "placeId": "ChIJo9f-R_VvcVMRuYrwM7eJ-Z4"
   },
   {
     "name": "Resilience Psychology",
@@ -14991,16 +15756,6 @@
     "placeId": "ChIJsXDL3XUtE1MROYfWg5XxBlo"
   },
   {
-    "name": "Revive Wholebody Health",
-    "address": "12 St Joseph St, St. Albert, AB T8N 7L9, Canada",
-    "phone": "(780) 460-7384",
-    "email": "frontdesk@revivehealth.ca",
-    "website": "http://revivehealth.ca/",
-    "modalities": [],
-    "acceptingStudents": false,
-    "placeId": "ChIJQYKo-OUloFMR94WIJFllSxU"
-  },
-  {
     "name": "Revolution Physiotherapy & Massage",
     "address": "7 McLeod Ave #108, Spruce Grove, AB T7X 4B8, Canada",
     "phone": "(780) 571-1100",
@@ -15102,21 +15857,6 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJbQkWfckjoFMRUkhByrQYEU0"
-  },
-  {
-    "name": "Rise Wellness Collective",
-    "address": "1716 16 Ave NW Ste 320, Calgary, AB T2M 0L7, Canada",
-    "phone": "(587) 330-3908",
-    "email": "stephanie@risewc.ca",
-    "website": "https://risewellnesscollective.ca/",
-    "modalities": [
-      "Trauma",
-      "Anxiety",
-      "Grief",
-      "ADHD"
-    ],
-    "acceptingStudents": false,
-    "placeId": "ChIJ6TPeV9RvcVMRDPM2FXXp8rQ"
   },
   {
     "name": "RiseUp Massage & Wellness",
@@ -15334,18 +16074,6 @@
     "placeId": "ChIJF0yQJbNVdFMRQvd9dZGh5vY"
   },
   {
-    "name": "Rocky Mountain Harmonic Egg",
-    "address": "118 1 Ave #205B, Cochrane, AB T4C 1Z6, Canada",
-    "phone": "(403) 981-5544",
-    "email": "Fiona@rockymountainharmonicegg.com",
-    "website": "https://rockymountainharmonicegg.com/",
-    "modalities": [
-      "Anxiety"
-    ],
-    "acceptingStudents": false,
-    "placeId": "ChIJx6abAZNBcVMRMNzPVkU_ghw"
-  },
-  {
     "name": "Rocky Relationship Counselling",
     "address": "1700 Varsity Estates Dr NW, Calgary, AB T3G 2W9, Canada",
     "phone": "(587) 892-4664",
@@ -15414,6 +16142,16 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJpea7_CpVdFMRN5BJw2Y3u3w"
+  },
+  {
+    "name": "Rosehaven Provincial Program",
+    "address": "1Y6, 5303 47 Ave, Camrose, AB T4V 1Y8, Canada",
+    "phone": "(780) 679-3040",
+    "email": "",
+    "website": "http://www.thebethanygroup.ca/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJPdJ0ytG7ClMR9cAcgdj3tVQ"
   },
   {
     "name": "Ruby Therapy Services",
@@ -15519,7 +16257,7 @@
     "name": "Sacred Pangea",
     "address": "50 Fireside Gate #7120, Cochrane, AB T4C 2X1, Canada",
     "phone": "(403) 981-2114",
-    "email": "",
+    "email": "info@sacredpangea.com",
     "website": "http://sacredpangea.com/",
     "modalities": [],
     "acceptingStudents": false,
@@ -15529,9 +16267,20 @@
     "name": "Safe Haven Counselling",
     "address": "1640 16 Ave NW #401, Calgary, AB T2M 0L7, Canada",
     "phone": "(403) 478-5770",
-    "email": "",
+    "email": "safehavencounselling@outlook.com",
     "website": "https://www.safehavencounselling.org/",
-    "modalities": [],
+    "modalities": [
+      "DBT",
+      "EMDR",
+      "Mindfulness",
+      "Trauma",
+      "Anxiety",
+      "Depression",
+      "Couples",
+      "Grief",
+      "Addiction",
+      "ADHD"
+    ],
     "acceptingStudents": false,
     "placeId": "ChIJT97DOpdvcVMRHcGnqeL-4z0"
   },
@@ -15564,6 +16313,7 @@
     "email": "safesolaceinspiredhealing@gmail.com",
     "website": "https://www.safesolaceinspiredhealing.com/",
     "modalities": [
+      "CBT",
       "DBT",
       "Mindfulness",
       "Trauma",
@@ -15811,16 +16561,6 @@
     "placeId": "ChIJVVWJ5c2HblMRA003O0lO8Mw"
   },
   {
-    "name": "Sather Reid Sport Medicine North",
-    "address": "190 Carleton Dr, St. Albert, AB T8N 6W2, Canada",
-    "phone": "(780) 460-9977",
-    "email": "",
-    "website": "http://satherreidsportmed.ca/",
-    "modalities": [],
-    "acceptingStudents": false,
-    "placeId": "ChIJQzOMcKEloFMRHFYOiZI-QVY"
-  },
-  {
     "name": "Savanna Psychology",
     "address": "5850 88 Ave NE #6220, Calgary, AB T3J 0Z7, Canada",
     "phone": "(587) 716-5600",
@@ -15884,9 +16624,7 @@
     "phone": "(780) 910-3420",
     "email": "user@domain.com",
     "website": "https://www.schafferpsychology.ca/",
-    "modalities": [
-      "Anxiety"
-    ],
+    "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJHXXEPAaPn1MRLeIbeQzpdNg"
   },
@@ -15896,11 +16634,19 @@
     "phone": "(780) 910-3420",
     "email": "user@domain.com",
     "website": "https://www.schafferpsychology.ca/",
-    "modalities": [
-      "Anxiety"
-    ],
+    "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJpZ962NghoFMRzrzjuHhgjPA"
+  },
+  {
+    "name": "Schiller, Spence & Associates Private Wealth Management",
+    "address": "4204 70 Ave, Lloydminster, AB T9V 2X3, Canada",
+    "phone": "(780) 874-4415",
+    "email": "schiller.spence@igpwm.ca",
+    "website": "http://www.schillerspence.ca/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJo68Gy8azCVMRIO2xyqsHYY0"
   },
   {
     "name": "Schizophrenia Society Of Alberta",
@@ -16064,11 +16810,7 @@
     "phone": "(403) 505-9125",
     "email": "user@domain.com",
     "website": "http://serenityreikibymel.squarespace.com/",
-    "modalities": [
-      "Anxiety",
-      "Depression",
-      "Grief"
-    ],
+    "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJv3LpzG5VdFMR5iVTM9J1keM"
   },
@@ -16193,6 +16935,16 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJ2bElSfqZcVMRnzEeo3KhUtQ"
+  },
+  {
+    "name": "Sheldon Kennedy Centre of Excellence",
+    "address": "70 College Cir #310, Red Deer, AB T4R 0V4, Canada",
+    "phone": "(403) 986-1050",
+    "email": "",
+    "website": "https://www.centralalbertacac.ca/centre-of-excellence/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJ8RDqZQBXdFMRwPjysgEmuWc"
   },
   {
     "name": "Shelley Hanna Psychology",
@@ -16328,16 +17080,6 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJM6ZKYNMjoFMRHod2ZH7wTRs"
-  },
-  {
-    "name": "Shifting Gears Psychology Inc.",
-    "address": "9245 50 St NW #201, Edmonton, AB T6B 3B6, Canada",
-    "phone": "(780) 232-9484",
-    "email": "",
-    "website": "https://www.shiftinggearspsychology.com/",
-    "modalities": [],
-    "acceptingStudents": false,
-    "placeId": "ChIJX2Ve4-UjoFMRjlcXVMKHzg0"
   },
   {
     "name": "Shifting Mocean",
@@ -16526,14 +17268,7 @@
     "phone": "(587) 815-9959",
     "email": "user@domain.com",
     "website": "https://www.socialshiftwellness.com/",
-    "modalities": [
-      "EMDR",
-      "Trauma",
-      "Anxiety",
-      "Couples",
-      "Family",
-      "ADHD"
-    ],
+    "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJ_a5efVdRdFMReDG-HpNUciI"
   },
@@ -16574,6 +17309,16 @@
     "placeId": "ChIJd6vv1NYXoFMR1M_wSc1BEeM"
   },
   {
+    "name": "Solace Grief Support Society",
+    "address": "66 10 Ave S E #4, High River, AB T1V 1E6, Canada",
+    "phone": "(403) 601-3312",
+    "email": "",
+    "website": "https://www.solacegriefsupport.com/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJffvsOoaVcVMRnf7SXpBTVXo"
+  },
+  {
     "name": "Solace Psychology & Wellness",
     "address": "2435 90b St SW #205, Edmonton, AB T6X 1V8, Canada",
     "phone": "(780) 702-1079",
@@ -16599,6 +17344,23 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJbdiCYaMeoFMRgL55U82bV4o"
+  },
+  {
+    "name": "Solace Psychology & Wellness - Massage",
+    "address": "2435 90b St SW #205, Edmonton, AB T6X 1V8, Canada",
+    "phone": "(780) 702-1079",
+    "email": "",
+    "website": "http://www.solacewellness.ca/",
+    "modalities": [
+      "Mindfulness",
+      "Anxiety",
+      "Depression",
+      "Couples",
+      "Play Therapy",
+      "Assessment"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJTRpqkWodoFMRVKT1S30JGkw"
   },
   {
     "name": "Solace Psychology & Wellness - St. Albert",
@@ -16874,14 +17636,14 @@
     "placeId": "ChIJ2b_qDM2HblMRfhj413buV3o"
   },
   {
-    "name": "Sparrow Creative Counselling Collective",
-    "address": "10004 79 Ave NW, Edmonton, AB T6E 1R5, Canada",
-    "phone": "(587) 802-3728",
+    "name": "SouthSide Psychology",
+    "address": "11012 Macleod Trl SE #620, Calgary, AB T2J 6A5, Canada",
+    "phone": "(403) 538-3058",
     "email": "",
-    "website": "http://www.sparrowcreativecounselling.com/",
+    "website": "https://www.southsidepsychology.ca/",
     "modalities": [],
     "acceptingStudents": false,
-    "placeId": "ChIJ9zZ98EojoFMRg8QZpBVcxsc"
+    "placeId": "ChIJCTiUSgtxcVMR_SkG1R0hIR4"
   },
   {
     "name": "Spero Counselling",
@@ -16914,27 +17676,6 @@
     "placeId": "ChIJf2HAj2g_cVMRNvR9lZche7o"
   },
   {
-    "name": "Springbank Psychology",
-    "address": "7460 Springbank Blvd SW Ste 235, Calgary, AB T3H 5P7, Canada",
-    "phone": "(403) 254-8744",
-    "email": "user@domain.com",
-    "website": "http://www.springbankpsychology.com/",
-    "modalities": [
-      "CBT",
-      "EMDR",
-      "Mindfulness",
-      "Trauma",
-      "Anxiety",
-      "Depression",
-      "Couples",
-      "Grief",
-      "ADHD",
-      "Assessment"
-    ],
-    "acceptingStudents": false,
-    "placeId": "ChIJ9dZBiLZtcVMRHtW_fcrex3M"
-  },
-  {
     "name": "Spruce Energy Healing",
     "address": "3 Lansing Close, Spruce Grove, AB T7X 4K3, Canada",
     "phone": "",
@@ -16943,6 +17684,16 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJUc5MbBePn1MRNUHrSpK-voo"
+  },
+  {
+    "name": "Spruce Grove Acupuncture & Traditional Chinese Medicine",
+    "address": "636 King St Ste 215, Spruce Grove, AB T7X 4K5, Canada",
+    "phone": "(780) 904-5006",
+    "email": "info@sprucegroveacupuncture.com",
+    "website": "http://www.sprucegroveacupuncture.com/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJQ5mwcvOOn1MRkWZs-sVx7ys"
   },
   {
     "name": "Spruce Grove Hypnosis",
@@ -16973,16 +17724,6 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJ6bnoprEloFMRs6Xj6n9RFno"
-  },
-  {
-    "name": "St. Albert Massage Therapy",
-    "address": "145 Carleton Dr #230, St. Albert, AB T8N 3S6, Canada",
-    "phone": "(780) 460-6895",
-    "email": "",
-    "website": "http://www.stalbertmassagetherapy.ca/",
-    "modalities": [],
-    "acceptingStudents": false,
-    "placeId": "ChIJ8wmpSSskoFMRG879tEIFjR4"
   },
   {
     "name": "Stacey Steele Psychology",
@@ -17146,6 +17887,26 @@
     "placeId": "ChIJj1ClMACRkFMRs5ek8_O7CiY"
   },
   {
+    "name": "Stillar Psychological - South",
+    "address": "2715 Ellwood Dr SW, Edmonton, AB T6X 0P7, Canada",
+    "phone": "(780) 999-2023",
+    "email": "stillarpsychological@gmail.com",
+    "website": "https://stillarpsychological.com/",
+    "modalities": [
+      "CBT",
+      "EMDR",
+      "Trauma",
+      "Anxiety",
+      "Depression",
+      "Couples",
+      "Grief",
+      "ADHD",
+      "Assessment"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJE6q99QEfoFMR-c9fNWMJ8mI"
+  },
+  {
     "name": "Stillwater Counselling & Wellness",
     "address": "10171 Saskatchewan Dr NW #215, Edmonton, AB T6E 6K3, Canada",
     "phone": "(780) 800-0404",
@@ -17189,7 +17950,9 @@
     "phone": "(587) 337-0059",
     "email": "",
     "website": "https://www.stirpsychology.com/",
-    "modalities": [],
+    "modalities": [
+      "Couples"
+    ],
     "acceptingStudents": false,
     "placeId": "ChIJwws1aIwXoFMRDjUJfxtUPBU"
   },
@@ -17202,6 +17965,16 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJJTIfXS5VdFMRaroSLad17q4"
+  },
+  {
+    "name": "Stonegate Physiotherapy and Massage Clinic",
+    "address": "3 Stonegate Dr NW #508, Airdrie, AB T4B 0N2, Canada",
+    "phone": "(403) 980-7666",
+    "email": "info@stonegatephysio.ca",
+    "website": "http://www.stonegatephysio.ca/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJe3l8bEtfcVMRpKfixkzxdG8"
   },
   {
     "name": "Storcer Psychological Services Inc.",
@@ -17222,9 +17995,7 @@
     "phone": "(587) 330-9110",
     "email": "user@domain.com",
     "website": "http://www.storifytherapy.com/",
-    "modalities": [
-      "Trauma"
-    ],
+    "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJjUCiEBOZcVMRI58tZA2SnCI"
   },
@@ -17239,6 +18010,16 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJ_-flG-U9oFMRkQ_KabbVFQI"
+  },
+  {
+    "name": "Strathcona County Health Centre",
+    "address": "2 Brower Dr, Baseline Rd, Sherwood Park, AB T8H 1V4, Canada",
+    "phone": "(780) 342-4600",
+    "email": "feedback@myhealth.alberta.ca",
+    "website": "https://www.albertahealthservices.ca/findhealth/facility.aspx?id=3906",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJI3fmmCQWoFMR9GVHtppH6zk"
   },
   {
     "name": "Strathcona County Primary Care Network",
@@ -17474,6 +18255,16 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJVxk9iXtfcVMRJQK6Jr9100Y"
+  },
+  {
+    "name": "Sunrise Physical Therapy~Motor Vehicle Accident,Concussion, Vestibular, Chronic Pain, And Sports Injury in Spruce Grove",
+    "address": "112, 187 Hwy 16A, Spruce Grove, AB T7X 4P9, Canada",
+    "phone": "(780) 960-8711",
+    "email": "",
+    "website": "https://www.sunrisephysio.ca/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJbypp5r-On1MRfOrhJ6vzfYY"
   },
   {
     "name": "Sunshine Physio and Wellness",
@@ -17818,6 +18609,16 @@
     "placeId": "ChIJS7FMRMdWdFMRRGSr8UM0XvI"
   },
   {
+    "name": "The Bethany Group",
+    "address": "4612 53 St, Camrose, AB T4V 1Y6, Canada",
+    "phone": "(780) 679-2000",
+    "email": "",
+    "website": "http://www.thebethanygroup.ca/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJ14g__dC7ClMRYgnp-H7JwfI"
+  },
+  {
     "name": "The Birch House: Psychology and Wellness (Erika Miller Psychological Services Inc.",
     "address": "626 Spencer St SE, Medicine Hat, AB T1A 1Y7, Canada",
     "phone": "(403) 581-1618",
@@ -17893,6 +18694,22 @@
     "placeId": "ChIJGTIVFJxAcVMRkCsJBj2HA-k"
   },
   {
+    "name": "The Centre for Posttraumatic Stress & Anxiety Treatment Ltd.",
+    "address": "11611 107 Ave NW Unit 302, Edmonton, AB T5H 0P9, Canada",
+    "phone": "(780) 800-5585",
+    "email": "user@domain.com",
+    "website": "https://www.cpsat.ca/",
+    "modalities": [
+      "CBT",
+      "Trauma",
+      "Anxiety",
+      "Depression",
+      "Assessment"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJfeKg_Q0joFMRgOYcpZOub-Q"
+  },
+  {
     "name": "The Cognitive Corner",
     "address": "5 Richard Way SW Ste 206 2nd Floor, Calgary, AB T3E 7M8, Canada",
     "phone": "(587) 355-3815",
@@ -17921,12 +18738,8 @@
     "email": "user@domain.com",
     "website": "http://thecollaborativecounsellor.com/",
     "modalities": [
-      "Mindfulness",
-      "Trauma",
-      "Anxiety",
       "Couples",
-      "Family",
-      "Grief"
+      "Family"
     ],
     "acceptingStudents": false,
     "placeId": "ChIJKbTGdoqXkFMRTZ_pD8lFgwg"
@@ -17995,6 +18808,16 @@
   },
   {
     "name": "The Family Psychology Place",
+    "address": "10333 Southport Rd SW Ste A5, Calgary, AB T2W 3X6, Canada",
+    "phone": "(403) 250-7792",
+    "email": "staff@familypsychologyplace.com",
+    "website": "https://familypsychologyplace.com/locations/south-calgary/?utm_source=organic&utm_medium=gbp&utm_campaign=gbp-link",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJMZdE7DBxcVMReiAx4Udypmo"
+  },
+  {
+    "name": "The Family Psychology Place",
     "address": "400 Crowfoot Crescent NW #405, Calgary, AB T3G 5H6, Canada",
     "phone": "(403) 477-0902",
     "email": "staffnorth@familypsychologyplace.com",
@@ -18004,14 +18827,14 @@
     "placeId": "ChIJGYJSYSBpcVMRys6jEPdIRw8"
   },
   {
-    "name": "The Family Psychology Place",
-    "address": "10333 Southport Rd SW Ste A5, Calgary, AB T2W 3X6, Canada",
-    "phone": "(403) 250-7792",
-    "email": "staff@familypsychologyplace.com",
-    "website": "https://familypsychologyplace.com/locations/south-calgary/?utm_source=organic&utm_medium=gbp&utm_campaign=gbp-link",
+    "name": "The Fern Room",
+    "address": "1804 50 Ave, Lloydminster, AB T9V 2W7, Canada",
+    "phone": "(306) 895-3014",
+    "email": "0a2411dd501e4441a1f4a27ebdb0b309@o4505290921410560.ingest.sentry.io",
+    "website": "https://thefernroom.janeapp.com/",
     "modalities": [],
     "acceptingStudents": false,
-    "placeId": "ChIJMZdE7DBxcVMReiAx4Udypmo"
+    "placeId": "ChIJXxrHz2GtCVMRwVkkv9QCje0"
   },
   {
     "name": "The G.O.A.T. Sport Medicine Clinic",
@@ -18050,6 +18873,21 @@
     "placeId": "ChIJIdxH5SoioFMR3m9OTR5qic4"
   },
   {
+    "name": "The Grief and Trauma Healing Centre - The Orchards",
+    "address": "2435 90b St SW #204, Edmonton, AB T6X 1V8, Canada",
+    "phone": "(780) 288-8011",
+    "email": "user@domain.com",
+    "website": "https://www.healmyheart.ca/contact-us-edmonton?utm_source=google&utm_medium=gbp&utm_campaign=website_link_the_orchards",
+    "modalities": [
+      "EMDR",
+      "Trauma",
+      "Family",
+      "Grief"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJ-5w7BrIdoFMRGdnyRc68ZRM"
+  },
+  {
     "name": "The Haven Day Spa and Wellness Centre",
     "address": "620 Second St W, Cochrane, AB T4C 1Z7, Canada",
     "phone": "(587) 578-5569",
@@ -18082,6 +18920,18 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJYb-xLLyPn1MRCH6W4HNdA3o"
+  },
+  {
+    "name": "The Healing Hive Therapy Co.",
+    "address": "1121 Centre St N Unit 200, Calgary, AB T2E 7K6, Canada",
+    "phone": "(587) 355-8325",
+    "email": "hello@thehealinghive.ca",
+    "website": "https://www.thehealinghive.ca/",
+    "modalities": [
+      "Trauma"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJGWcEQbJvcVMR6VCP5Cm_PlI"
   },
   {
     "name": "The Healing Hive, Wellness Collective",
@@ -18291,6 +19141,16 @@
     "placeId": "ChIJJa16n2tfcVMRKV3sR0Imoik"
   },
   {
+    "name": "The Soul Center ~ Reiki Healing and Wellness - Partners with Crystals and Sun Signs Co",
+    "address": "6782 50 Ave #4, Red Deer, AB T4N 4E1, Canada",
+    "phone": "(403) 356-6161",
+    "email": "crystalsandsunsigns@gmail.com",
+    "website": "https://www.crystalsandsunsigns.com/pages/the-soul-center-reiki-healing",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJg1Od8P9UdFMRHq9jETtTzuY"
+  },
+  {
     "name": "The Southern Alberta Self-Help Association (SASHA)",
     "address": "1239 5 Ave S, Lethbridge, AB T1J 0V6, Canada",
     "phone": "(403) 942-2263",
@@ -18328,6 +19188,19 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJfdJCJIpvcVMR5YeAS2BFlsg"
+  },
+  {
+    "name": "The Therapy Corner",
+    "address": "4220 98 St NW Ste 204, Edmonton, AB T6E 6A1, Canada",
+    "phone": "(780) 876-7732",
+    "email": "user@domain.com",
+    "website": "https://www.safepassagepsychology.com/",
+    "modalities": [
+      "Trauma",
+      "Grief"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJg_OtYakZoFMRCcXEbm28er0"
   },
   {
     "name": "The Twisted Body Massage Therapy and Wellness Center",
@@ -18472,6 +19345,18 @@
     "placeId": "ChIJWx6lVTdBcVMRjW0Evu6f51c"
   },
   {
+    "name": "Therapy With Brandy",
+    "address": "5555 Calgary Trl NW, Edmonton, AB T6H 5P9, Canada",
+    "phone": "(780) 999-5859",
+    "email": "therapyinfo@pm.me",
+    "website": "https://www.therapywithbrandy.ca/",
+    "modalities": [
+      "Family"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJEXJ2PxofoFMRp3j5ScjcJmQ"
+  },
+  {
     "name": "Therapy with Katie",
     "address": "8005 Emerald Dr #829, Sherwood Park, AB T8H 0K9, Canada",
     "phone": "(780) 900-3387",
@@ -18588,6 +19473,16 @@
     "placeId": "ChIJJQu3g0wXoFMRkO5uBwMVRKA"
   },
   {
+    "name": "Thriveology Elevated Daycare and Clinical Services",
+    "address": "140 St Albert Trl Units 430 and 470, St. Albert, AB T8N 4K1, Canada",
+    "phone": "(825) 439-8318",
+    "email": "user@domain.com",
+    "website": "https://thriveologydaycare.com/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJ23eIgYonoFMRvDZ4TZ_6yJs"
+  },
+  {
     "name": "Thriveworks Counseling & Psychiatry Grand Prairie",
     "address": "1050 Post & Paddock Rd Ste 102, Grand Prairie, TX 75050, USA",
     "phone": "(224) 257-3776",
@@ -18675,14 +19570,7 @@
     "phone": "(587) 416-1237",
     "email": "user@domain.com",
     "website": "https://www.timberridgecounselling.com/",
-    "modalities": [
-      "EMDR",
-      "Trauma",
-      "Anxiety",
-      "Depression",
-      "Play Therapy",
-      "ADHD"
-    ],
+    "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJ8S4gmwknoFMRySt-efIGUrA"
   },
@@ -18722,10 +19610,27 @@
     "email": "tlvtherapy@gmail.com",
     "website": "http://www.tlvtherapy.ca/",
     "modalities": [
-      "Trauma"
+      "Trauma",
+      "Anxiety",
+      "Depression"
     ],
     "acceptingStudents": false,
     "placeId": "ChIJRdJ3Np35n1MR5M2SmRv4-MI"
+  },
+  {
+    "name": "TMC Child Psychology",
+    "address": "1982 Kensington Rd NW #200, Calgary, AB T2N 2H7, Canada",
+    "phone": "(587) 414-6120",
+    "email": "taryn@tmcchildpsychology.com",
+    "website": "http://tmcchildpsychology.com/",
+    "modalities": [
+      "CBT",
+      "Anxiety",
+      "Depression",
+      "ADHD"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJBbffbPZlcVMRv99Yqvrvev4"
   },
   {
     "name": "Total Wellness Therapy Inc",
@@ -18738,14 +19643,24 @@
     "placeId": "ChIJM18BBs5fcVMRZ2wn1lAIsqg"
   },
   {
-    "name": "Touch Treats Wellness Clinic",
-    "address": "2630 50 Ave, Lloydminster, AB T9V 2S3, Canada",
-    "phone": "(587) 399-3396",
+    "name": "Touched By Coby",
+    "address": "4816 50 Ave, Camrose, AB T4V 0R9, Canada",
+    "phone": "(780) 385-5814",
     "email": "",
-    "website": "https://touchtreats.sintra.site/",
+    "website": "",
     "modalities": [],
     "acceptingStudents": false,
-    "placeId": "ChIJGcLuSXz19CcRm77bTXSidPk"
+    "placeId": "ChIJ8d9bAs27ClMRtpVM1ihfwik"
+  },
+  {
+    "name": "Transcend Counselling",
+    "address": "6732 75 Street NW Unit# 201, Edmonton, AB T6E 6T9, Canada",
+    "phone": "(780) 937-8080",
+    "email": "",
+    "website": "http://transcendcounselling.com/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJtfP-yQ8ioFMRojF4ioNlxxo"
   },
   {
     "name": "Transcend Psychological",
@@ -19079,7 +19994,7 @@
     "name": "Unity Collective Studios",
     "address": "49 Elma St W #101, Okotoks, AB T1S 1J7, Canada",
     "phone": "(403) 992-0939",
-    "email": "",
+    "email": "unitycollectivestudios@gmail.com",
     "website": "https://www.unitycollectivestudios.com/",
     "modalities": [],
     "acceptingStudents": false,
@@ -19192,6 +20107,16 @@
     "placeId": "ChIJGQStwOYloFMR-Y2T9Ij3RNM"
   },
   {
+    "name": "Urban Touch Halo Wellness INC",
+    "address": "323 McLeod Ave Unit 204, Spruce Grove, AB T7X 0J6, Canada",
+    "phone": "(780) 960-9890",
+    "email": "",
+    "website": "http://www.urbantouch.ca/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJkzG2dvKOn1MRQUrTfOBEwX4"
+  },
+  {
     "name": "Vantage Community Services",
     "address": "4920 54 St, Red Deer, AB T4N 2G8, Canada",
     "phone": "(403) 340-8995",
@@ -19231,6 +20156,26 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJi56zZa4IsFMRiYAezO8iHu4"
+  },
+  {
+    "name": "Vena Women's Health + Wellness",
+    "address": "117 1 St NW, Airdrie, AB T4B 0R3, Canada",
+    "phone": "(403) 850-1617",
+    "email": "user@domain.com",
+    "website": "https://www.venamobilehealth.com/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJTfAUbxRfcVMRCbjFliqCpVM"
+  },
+  {
+    "name": "Verita Counselling",
+    "address": "305 Ross Ave, Cochrane, AB T4C 1Z5, Canada",
+    "phone": "(587) 229-8044",
+    "email": "",
+    "website": "https://www.veritacounselling.com/contact",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJ__9LaZtAcVMRtsyUkVZJYLY"
   },
   {
     "name": "Viable Mindset Counselling",
@@ -19462,16 +20407,6 @@
     "placeId": "ChIJqwoBYn9vcVMR1N4nfpD9nuQ"
   },
   {
-    "name": "Vivid Psychology",
-    "address": "3450 19 St SW, Calgary, AB T2T 6N9, Canada",
-    "phone": "(587) 578-4843",
-    "email": "user@domain.com",
-    "website": "http://www.vividpsychology.com/",
-    "modalities": [],
-    "acceptingStudents": false,
-    "placeId": "ChIJVVXFOpdvcVMRl7d_b8SoBtM"
-  },
-  {
     "name": "VP Health",
     "address": "1921 Mayor Magrath Dr S Unit 201, Lethbridge, AB T1K 2R8, Canada",
     "phone": "(403) 929-1292",
@@ -19540,6 +20475,18 @@
     "placeId": "ChIJbQ2jPWqHblMRT0VQuIWbRSQ"
   },
   {
+    "name": "Wave Mental Wellness",
+    "address": "638 11 Ave SW #306, Calgary, AB T2R 0E2, Canada",
+    "phone": "",
+    "email": "erin@wavementalwellness.com",
+    "website": "https://www.wavementalwellness.com/",
+    "modalities": [
+      "Couples"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJA0TOAm1vcVMRlomuxc9xP94"
+  },
+  {
     "name": "Waypoints Community Services Assn",
     "address": "120 Prospect Dr, Fort McMurray, AB T9K 0B1, Canada",
     "phone": "(780) 743-4691",
@@ -19572,6 +20519,18 @@
     "placeId": "ChIJke8oGnyHblMRcqxQzyu-jCI"
   },
   {
+    "name": "Well Workshop",
+    "address": "4246 97 St NW Ste 104, Building VI, Edmonton, AB T6E 5Z9, Canada",
+    "phone": "(587) 987-3421",
+    "email": "",
+    "website": "https://linktr.ee/wellworkshop",
+    "modalities": [
+      "ADHD"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJQ9KvTkQfoFMRQyIBS4K1Vq8"
+  },
+  {
     "name": "Wellness Counselling Centre",
     "address": "8500 Macleod Trl SW, Calgary, AB T2H 2N1, Canada",
     "phone": "(403) 681-4014",
@@ -19582,16 +20541,16 @@
     "placeId": "ChIJe3maAuFxcVMRnRoK-fu2L1c"
   },
   {
-    "name": "Wellness Pathway Therapy & Counselling Services",
-    "address": "1524 91 St SW, Edmonton, AB T6X 1M5, Canada",
-    "phone": "(587) 487-1584",
-    "email": "",
-    "website": "https://www.wellnesspathway.ca/",
+    "name": "Wellness Empowered Counselling Services",
+    "address": "4927 51 Ave, Vegreville, AB T9C 1T9, Canada",
+    "phone": "(587) 804-2116",
+    "email": "contact@sansoxygen.com",
+    "website": "https://wellnessempowered.com/",
     "modalities": [
-      "Couples"
+      "Anxiety"
     ],
     "acceptingStudents": false,
-    "placeId": "ChIJnQBo5DwdoFMREtHWmoauZhM"
+    "placeId": "ChIJQ_gS4wadoFMRNwR0C4-75lw"
   },
   {
     "name": "Wellness Psychology",
@@ -19790,6 +20749,29 @@
     "placeId": "ChIJYQ7LKQMloFMR0OKlwpY2o4Q"
   },
   {
+    "name": "Wholesome Psychology - Edmonton South",
+    "address": "2962 Parsons Rd NW, Edmonton, AB T8N 1B1, Canada",
+    "phone": "(780) 904-4880",
+    "email": "",
+    "website": "http://www.wholesomepsychology.ca/",
+    "modalities": [
+      "CBT",
+      "DBT",
+      "EMDR",
+      "Trauma",
+      "Anxiety",
+      "Depression",
+      "Couples",
+      "Family",
+      "Play Therapy",
+      "Grief",
+      "ADHD",
+      "Assessment"
+    ],
+    "acceptingStudents": false,
+    "placeId": "ChIJb1GAmdMfoFMR-FQ_q7FyqNc"
+  },
+  {
     "name": "Wholesome Psychology - Edmonton West",
     "address": "9509 156 St #204, Edmonton, AB T5P 4J5, Canada",
     "phone": "(780) 904-4880",
@@ -19981,9 +20963,17 @@
     "name": "Wisdom Psychology",
     "address": "508 1 St W, Cochrane, AB T4C 0C4, Canada",
     "phone": "",
-    "email": "",
+    "email": "wisdompsychology@proton.me",
     "website": "http://wisdompsychology.ca/",
-    "modalities": [],
+    "modalities": [
+      "EMDR",
+      "ACT",
+      "Trauma",
+      "Anxiety",
+      "Depression",
+      "ADHD",
+      "Assessment"
+    ],
     "acceptingStudents": false,
     "placeId": "ChIJS_IljeBBcVMRmyAzaBACNow"
   },
@@ -20000,6 +20990,16 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJj1sovbAjoFMRG4vPYH9s3o8"
+  },
+  {
+    "name": "With Love, Dana",
+    "address": "1625 50 Ave #103B, Lloydminster, SK S9V 2H3, Canada",
+    "phone": "(306) 830-0171",
+    "email": "",
+    "website": "",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJDzC2VBWtCVMRd6wuPSt8eNk"
   },
   {
     "name": "WJW Counselling & Mediation",
@@ -20040,6 +21040,16 @@
     ],
     "acceptingStudents": false,
     "placeId": "ChIJUfD0WW4foFMRyV4KFv7ARGM"
+  },
+  {
+    "name": "Wonderland Therapy Collective",
+    "address": "30 Davison Dr, Red Deer, AB T4R 2J3, Canada",
+    "phone": "(825) 305-1139",
+    "email": "",
+    "website": "https://www.wonderlandtherapycollective.ca/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=11453596024755483551",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJNRoAsJVXdFMRk5Jq9RQyWls"
   },
   {
     "name": "Wood Buffalo Addiction & Mental Health Services",
@@ -20115,6 +21125,16 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJuYe77rUIsFMR-_hFxH35Rb8"
+  },
+  {
+    "name": "Wood's Homes | Stepping Stones Youth Services",
+    "address": "102 McConachie Crescent, Fort McMurray, AB T9K 1T1, Canada",
+    "phone": "(780) 750-2252",
+    "email": "stepping.stones@woodshomes.ca",
+    "website": "https://www.woodshomes.ca/programs/stepping-stones-youth-services/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJZUpv7VUIsFMRYJu4mUTrOiM"
   },
   {
     "name": "Woodrows Counseling & Consulting",
@@ -20199,17 +21219,9 @@
     "name": "YEG Family Counselling",
     "address": "10216 124 St Ste 608, Edmonton, AB T5N 4A3, Canada",
     "phone": "(780) 809-0809",
-    "email": "hello@yegfamilycounselling.com",
+    "email": "",
     "website": "http://www.yegfamilycounselling.com/",
-    "modalities": [
-      "Trauma",
-      "Anxiety",
-      "Depression",
-      "Couples",
-      "Family",
-      "Grief",
-      "ADHD"
-    ],
+    "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJCbbYy_AfoFMRdlV0UBD3ahs"
   },
@@ -20293,6 +21305,16 @@
     "modalities": [],
     "acceptingStudents": false,
     "placeId": "ChIJt7h6bKQloFMRiwpEIqD1_fU"
+  },
+  {
+    "name": "Yvonne Dion Massage Therapy",
+    "address": "305 Diefenbaker Dr, Fort McMurray, AB T9K 2K1, Canada",
+    "phone": "(780) 881-3194",
+    "email": "",
+    "website": "http://ydmassagetherapy.com/",
+    "modalities": [],
+    "acceptingStudents": false,
+    "placeId": "ChIJM5Olfm8JsFMRQ94BZnYWbyI"
   },
   {
     "name": "YYC Family Therapy",
